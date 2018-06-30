@@ -1,6 +1,9 @@
 # XF2-Swedish
 This is a complete translation of XenForo 2.x.x to Swedish.
 
+# About me
+I'm Jill Karlsson and the site owner of the swedish [Thaisnack Forum](https://thaisnack.se/). You may contact me on using the [Contact Form](https://thaisnack.se/misc/contact/).
+
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 #### Prerequisits
