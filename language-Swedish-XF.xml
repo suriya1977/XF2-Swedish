@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <language title="Svenska" date_format="j F Y" time_format="H:i" currency_format="{value}{symbol}" week_start="1" decimal_point="." thousands_separator="," label_separator=":" comma_separator=", " ellipsis="..." parenthesis_open="(" parenthesis_close=")" language_code="sv-SE" text_direction="LTR" addon_id="XF" export_version="1">
-  <phrase title="1_day_ago" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[One day ago]]></phrase>
-  <phrase title="1_month_ago" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[One month ago]]></phrase>
-  <phrase title="1_time" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[1 time]]></phrase>
-  <phrase title="1_week_ago" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[One week ago]]></phrase>
-  <phrase title="1_year" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[1 year]]></phrase>
-  <phrase title="1_year_ago" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[One year ago]]></phrase>
-  <phrase title="2_weeks_ago" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Two weeks ago]]></phrase>
-  <phrase title="2_years_ago" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Two years ago]]></phrase>
-  <phrase title="2x_image_replacement_url" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[2x image replacement URL]]></phrase>
-  <phrase title="2x_image_replacement_url_explain" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[If provided, the 2x image will be automatically displayed instead of the image URL above on devices capable of displaying a higher pixel resolution.<br />
+  <phrase title="1_day_ago" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[En dag sedan]]></phrase>
+  <phrase title="1_month_ago" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[En månad sedan]]></phrase>
+  <phrase title="1_time" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[1 gång]]></phrase>
+  <phrase title="1_week_ago" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[En vecka sedan]]></phrase>
+  <phrase title="1_year" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[1 år]]></phrase>
+  <phrase title="1_year_ago" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Ett år sedan]]></phrase>
+  <phrase title="2_weeks_ago" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Två veckor sedan]]></phrase>
+  <phrase title="2_years_ago" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Två år sedan]]></phrase>
+  <phrase title="2x_image_replacement_url" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[2x bild ersättnings-URL]]></phrase>
+  <phrase title="2x_image_replacement_url_explain" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Om angivet så kommer 2x-bilden automatiskt att visas istället för bild-URL:en på enheter som har stöd för högre bildupplösning.<br />
 <br />
 <strong>Note: This option has no effect with sprite mode enabled.</strong>]]></phrase>
-  <phrase title="3_months_ago" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Three months ago]]></phrase>
-  <phrase title="6_months_ago" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Six months ago]]></phrase>
-  <phrase title="9_months_ago" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Nine months ago]]></phrase>
-  <phrase title="a_moment_ago" addon_id="XF" global_cache="1" version_id="0" version_string=""><![CDATA[A moment ago]]></phrase>
-  <phrase title="a_z_0_9_and_only" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[A-Z, 0-9, and _ only]]></phrase>
-  <phrase title="a_z_0_9_and_underscore_only" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[A-Z, a-z, 0-9, and _ only]]></phrase>
-  <phrase title="about" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[About]]></phrase>
-  <phrase title="about_you" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[About you]]></phrase>
+  <phrase title="3_months_ago" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Tre månader sedan]]></phrase>
+  <phrase title="6_months_ago" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Sex månader sedan]]></phrase>
+  <phrase title="9_months_ago" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Nio månader sedan]]></phrase>
+  <phrase title="a_moment_ago" addon_id="XF" global_cache="1" version_id="0" version_string=""><![CDATA[Alldeles nyligen]]></phrase>
+  <phrase title="a_z_0_9_and_only" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Enbart A-Z, 0-9, och _]]></phrase>
+  <phrase title="a_z_0_9_and_underscore_only" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Enbart A-Z, a-z, 0-9, och _]]></phrase>
+  <phrase title="about" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Om]]></phrase>
+  <phrase title="about_you" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Om dig]]></phrase>
   <phrase title="accent" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Accent]]></phrase>
-  <phrase title="accept" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Accept]]></phrase>
-  <phrase title="accept_future_messages" addon_id="XF" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Accept future messages]]></phrase>
-  <phrase title="accepted_privacy_policy" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Accepted privacy policy]]></phrase>
-  <phrase title="accepted_terms_rules" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Accepted terms and rules]]></phrase>
+  <phrase title="accept" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Godkänn]]></phrase>
+  <phrase title="accept_future_messages" addon_id="XF" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Samtyck till framtida meddelanden]]></phrase>
+  <phrase title="accepted_privacy_policy" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Har samtyckt till integritetspolicyn]]></phrase>
+  <phrase title="accepted_terms_rules" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Har samtyckt till medlemsvillkoren]]></phrase>
   <phrase title="account_details" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Account details]]></phrase>
   <phrase title="account_upgrade" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Account upgrade]]></phrase>
   <phrase title="account_upgrades" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Account upgrades]]></phrase>
@@ -207,8 +207,8 @@
   <phrase title="admin_navigation.emailUsers" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Email users]]></phrase>
   <phrase title="admin_navigation.executionManipulation" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Execution manipulation]]></phrase>
   <phrase title="admin_navigation.fileCheck" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[File health check]]></phrase>
-  <phrase title="admin_navigation.forceAgreementPrivacy" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Force privacy policy agreement]]></phrase>
-  <phrase title="admin_navigation.forceAgreementTerms" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Force terms and rules agreement]]></phrase>
+  <phrase title="admin_navigation.forceAgreementPrivacy" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Kräv samtycke till integritetspolicyn]]></phrase>
+  <phrase title="admin_navigation.forceAgreementTerms" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Kräv samtycke till medlemsvillkoren]]></phrase>
   <phrase title="admin_navigation.forumNodePermissions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Node permissions]]></phrase>
   <phrase title="admin_navigation.forums" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Forums]]></phrase>
   <phrase title="admin_navigation.groupsAndPermissions" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Groups &amp; permissions]]></phrase>
@@ -657,11 +657,11 @@ To support recurring billing and automatically reversing purchases when a paymen
   <phrase title="button.submit" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Submit]]></phrase>
   <phrase title="button.translate" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Translate]]></phrase>
   <phrase title="by" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[By]]></phrase>
-  <phrase title="by_registering_you_agree_to_our_privacy_policy" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[I agree to the <a href="{privacy}" target="_blank">privacy policy</a>.]]></phrase>
-  <phrase title="by_registering_you_agree_to_our_terms_and_privacy_policy" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[I agree to the <a href="{tos}" target="_blank">terms</a> and <a href="{privacy}" target="_blank">privacy policy</a>.]]></phrase>
-  <phrase title="by_registering_you_agree_to_our_terms_and_rules" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[I agree to the <a href="{tos}" target="_blank">terms and rules</a>.]]></phrase>
-  <phrase title="by_url" addon_id="XF" version_id="2000034" version_string="2.0.0 Beta 4"><![CDATA[By URL]]></phrase>
-  <phrase title="by_user_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[By {name}]]></phrase>
+  <phrase title="by_registering_you_agree_to_our_privacy_policy" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[I agree to the <a href="{privacy}" target="_blank">Integritetspolicy</a>.]]></phrase>
+  <phrase title="by_registering_you_agree_to_our_terms_and_privacy_policy" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Jag samtycker till <a href="{tos}" target="_blank">medlemsvillkoren</a> och <a href="{privacy}" target="_blank">integritetspolicyn</a>.]]></phrase>
+  <phrase title="by_registering_you_agree_to_our_terms_and_rules" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Jag samtycker till <a href="{tos}" target="_blank">medlemsvillkoren</a>.]]></phrase>
+  <phrase title="by_url" addon_id="XF" version_id="2000034" version_string="2.0.0 Beta 4"><![CDATA[Av URL]]></phrase>
+  <phrase title="by_user_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Av {name}]]></phrase>
   <phrase title="cache_rebuilt_successfully" addon_id="XF" version_id="1020034" version_string="1.2.0 Beta 4"><![CDATA[Cache rebuilt successfully.]]></phrase>
   <phrase title="cache_this_phrase_globally" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Cache this phrase globally]]></phrase>
   <phrase title="callback" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Callback]]></phrase>
@@ -1606,9 +1606,9 @@ Your callback should return an HTML string, and have a signature as follows:<br 
   <phrase title="font_size" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Font size]]></phrase>
   <phrase title="for_length" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[For length]]></phrase>
   <phrase title="for_time_period" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[For time period]]></phrase>
-  <phrase title="force_privacy_policy_agreement" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Force privacy policy agreement]]></phrase>
-  <phrase title="force_terms_and_rules_agreement" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Force terms and rules agreement]]></phrase>
-  <phrase title="forgot_your_password" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Forgot your password?]]></phrase>
+  <phrase title="force_privacy_policy_agreement" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Förnya samtycke till integritetspolicyn]]></phrase>
+  <phrase title="force_terms_and_rules_agreement" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Förnya samtycke till medlemsvillkoren]]></phrase>
+  <phrase title="forgot_your_password" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Glömt lösenordet?]]></phrase>
   <phrase title="format_parameters" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Format parameters]]></phrase>
   <phrase title="formatted" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Formatted]]></phrase>
   <phrase title="forum" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Forum]]></phrase>
@@ -1734,14 +1734,14 @@ Your callback should return an HTML string, and have a signature as follows:<br 
   <phrase title="help_page_desc.cookies" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[This page explains how this site uses cookies.]]></phrase>
   <phrase title="help_page_desc.privacy_policy" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[You must accept this policy before using the site.]]></phrase>
   <phrase title="help_page_desc.smilies" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[This shows a full list of the smilies you can insert when posting a message.]]></phrase>
-  <phrase title="help_page_desc.terms" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[You must agree to these terms and rules before using the site.]]></phrase>
+  <phrase title="help_page_desc.terms" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[You must agree to these medlemsvillkoren before using the site.]]></phrase>
   <phrase title="help_page_desc.trophies" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[You can earn trophies by carrying out different actions. This page shows a list of the trophies that are available.]]></phrase>
   <phrase title="help_page_names_must_be_unique" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Help page names must be unique. The specified name is already in use.]]></phrase>
   <phrase title="help_page_title.bb_codes" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[BB codes]]></phrase>
   <phrase title="help_page_title.cookies" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Cookie usage]]></phrase>
-  <phrase title="help_page_title.privacy_policy" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Privacy policy]]></phrase>
+  <phrase title="help_page_title.privacy_policy" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Integritetspolicy]]></phrase>
   <phrase title="help_page_title.smilies" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Smilies]]></phrase>
-  <phrase title="help_page_title.terms" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Terms and rules]]></phrase>
+  <phrase title="help_page_title.terms" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Medlemsvillkor]]></phrase>
   <phrase title="help_page_title.trophies" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Trophies]]></phrase>
   <phrase title="help_pages" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Help pages]]></phrase>
   <phrase title="helpful_if_wish_to_translate_language_using_xml_file" addon_id="XF" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[This is helpful if you wish to translate this language using the XML file directly.]]></phrase>
@@ -1761,8 +1761,8 @@ Your callback should return an HTML string, and have a signature as follows:<br 
   <phrase title="html" addon_id="XF" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[HTML]]></phrase>
   <phrase title="html_email_replacement" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[HTML email replacement]]></phrase>
   <phrase title="html_replacement" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[HTML replacement]]></phrase>
-  <phrase title="i_have_read_and_accept_your_privacy_policy" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[I have read and accept your <a href="{privacyPolicyUrl}" target="_blank">privacy policy</a>.]]></phrase>
-  <phrase title="i_have_read_and_accept_your_terms_and_rules" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[I have read and accept your <a href="{tosUrl}" target="_blank">terms and rules</a>.]]></phrase>
+  <phrase title="i_have_read_and_accept_your_privacy_policy" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Jag har läst igenom och samtycker till <a href="{privacyPolicyUrl}" target="_blank">integritetspolicyn</a>.]]></phrase>
+  <phrase title="i_have_read_and_accept_your_terms_and_rules" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Jag har läst igenom och samtycker till <a href="{tosUrl}" target="_blank">medlemsvillkoren</a>.]]></phrase>
   <phrase title="i_have_reviewed_warnings_and_i_still_wish_to_proceed" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[I have reviewed the warnings and I still wish to proceed]]></phrase>
   <phrase title="i_have_saved_backup_codes" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[I have saved the backup codes]]></phrase>
   <phrase title="icon_indicator" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Indicator on icon]]></phrase>
@@ -2559,7 +2559,7 @@ The callback should either return an array or nothing at all. If nothing is retu
   <phrase title="no_prefixes_have_been_added_to_this_group_yet" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[No prefixes have been added to this group yet.]]></phrase>
   <phrase title="no_prefixes_have_been_added_yet" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[No prefixes have been added yet.]]></phrase>
   <phrase title="no_previous_version_of_parent_could_be_found" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[No previous version of the parent could be found. Merging is not possible.]]></phrase>
-  <phrase title="no_privacy_policy" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[No privacy policy]]></phrase>
+  <phrase title="no_privacy_policy" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Ingen integritetspolicy]]></phrase>
   <phrase title="no_promotion_history_meeting_criteria_found" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[No promotion history meeting that criteria can be found.]]></phrase>
   <phrase title="no_promotions_have_been_defined" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[No promotions have been defined.]]></phrase>
   <phrase title="no_prompts_have_been_added_to_this_group_yet" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[No prompts have been added to this group yet]]></phrase>
@@ -2574,7 +2574,7 @@ The callback should either return an array or nothing at all. If nothing is retu
   <phrase title="no_step_configuration_necessary" addon_id="XF" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[No step configuration necessary.]]></phrase>
   <phrase title="no_template_modifications_have_been_defined_yet" addon_id="XF" version_id="1020034" version_string="1.2.0 Beta 4"><![CDATA[No template modifications have been defined yet.]]></phrase>
   <phrase title="no_template_specified" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[No template specified.]]></phrase>
-  <phrase title="no_terms_and_rules" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[No terms and rules]]></phrase>
+  <phrase title="no_terms_and_rules" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Inga medlemsvillkor]]></phrase>
   <phrase title="no_text_decoration" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[No text decoration]]></phrase>
   <phrase title="no_thread_could_be_found_with_id_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[No thread could be found with the ID {thread_id}.]]></phrase>
   <phrase title="no_thread_id_could_be_found_from_that_url" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[No thread ID could be found from that URL.]]></phrase>
@@ -2806,8 +2806,8 @@ Note: when enabling oEmbed, any HTML entered in the 'Embed template' field is ig
   <phrase title="option.plusone" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Enable Google+ share button]]></phrase>
   <phrase title="option.pollMaximumResponses" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Maximum number of poll choices]]></phrase>
   <phrase title="option.preventDiscouragedRegistration" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Prevent discouraged IP addresses from registering]]></phrase>
-  <phrase title="option.privacyPolicyLastUpdate" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Privacy policy last update]]></phrase>
-  <phrase title="option.privacyPolicyUrl" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Privacy policy URL]]></phrase>
+  <phrase title="option.privacyPolicyLastUpdate" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Integritetspolicy senast uppdaterat]]></phrase>
+  <phrase title="option.privacyPolicyUrl" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Integritetspolicy URL]]></phrase>
   <phrase title="option.profilePostMaxLength" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Maximum profile message length]]></phrase>
   <phrase title="option.readMarkingDataLifetime" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Read marking data lifetime]]></phrase>
   <phrase title="option.redditShare" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Enable Reddit share button]]></phrase>
@@ -2841,8 +2841,8 @@ Note: when enabling oEmbed, any HTML entered in the 'Embed template' field is ig
   <phrase title="option.tagLength" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tag length limit]]></phrase>
   <phrase title="option.tagValidation" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tag validation]]></phrase>
   <phrase title="option.templateHistoryLength" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Template history length]]></phrase>
-  <phrase title="option.termsLastUpdate" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Terms and rules last update]]></phrase>
-  <phrase title="option.tosUrl" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Terms and rules URL]]></phrase>
+  <phrase title="option.termsLastUpdate" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Medlemsvillkoren uppdaterades senast]]></phrase>
+  <phrase title="option.tosUrl" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[medlemsvillkoren URL]]></phrase>
   <phrase title="option.tumblrShare" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Enable Tumblr share button]]></phrase>
   <phrase title="option.tweet" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Enable Twitter share button]]></phrase>
   <phrase title="option.urlToPageTitle" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Convert URLs to page titles]]></phrase>
@@ -2997,7 +2997,7 @@ This option requires that the specified bounce account is a catch-all account or
   <phrase title="option_explain.plusone" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Google's share button allows your visitors to recommend pages from your XenForo installation to others.]]></phrase>
   <phrase title="option_explain.pollMaximumResponses" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[This will limit the number of choices that can be given as responses to a poll.]]></phrase>
   <phrase title="option_explain.preventDiscouragedRegistration" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[You may prevent any visitors browsing from <a href="{link}">discouraged IP addresses</a> from registering new accounts. They will be informed that registration is currently disabled.]]></phrase>
-  <phrase title="option_explain.privacyPolicyLastUpdate" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[The Unix time stamp of the last privacy policy update.]]></phrase>
+  <phrase title="option_explain.privacyPolicyLastUpdate" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Unix tidsstämpel för uppdatering av integritetspolicyn.]]></phrase>
   <phrase title="option_explain.privacyPolicyUrl" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[This link will be shown in the footer and users will have to agree to the policy during registration.]]></phrase>
   <phrase title="option_explain.profilePostMaxLength" addon_id="XF" version_id="2000052" version_string="2.0.0 Release Candidate 2"><![CDATA[The maximum number of characters that can be in a profile post or comment. Use 0 to disable the limit.]]></phrase>
   <phrase title="option_explain.readMarkingDataLifetime" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[This is the number of days to maintain read marking data (such as for threads and forums). Data older than this will always be seen as read.]]></phrase>
@@ -3032,8 +3032,8 @@ This option requires that the specified bounce account is a catch-all account or
   <phrase title="option_explain.tagLength" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[This controls the minimum and maximum length of tags. Use 0 to disable a limit. Tags may never be longer than 100 characters. These limits only apply when a tag is created. Existing tags may always be used.]]></phrase>
   <phrase title="option_explain.tagValidation" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[]]></phrase>
   <phrase title="option_explain.templateHistoryLength" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[The number of days to maintain template edit history records. Use 0 to never remove history.]]></phrase>
-  <phrase title="option_explain.termsLastUpdate" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[The Unix time stamp of the last terms and rules update.]]></phrase>
-  <phrase title="option_explain.tosUrl" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[This link will be shown in the footer and users will have to agree to the terms and rules during registration.]]></phrase>
+  <phrase title="option_explain.termsLastUpdate" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Unix tidsstämpel för uppdatering av medlemsvillkoren.]]></phrase>
+  <phrase title="option_explain.tosUrl" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[This link will be shown in the footer and users will have to agree to the medlemsvillkoren during registration.]]></phrase>
   <phrase title="option_explain.tumblrShare" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[The <a href="https://www.tumblr.com/docs/en/share_button" target="_blank">Tumblr share button</a> lets your users share pages to Tumblr.]]></phrase>
   <phrase title="option_explain.tweet" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Enabling this button will allow your visitors to share pages easily using their Twitter account.<br />
 <br />
@@ -3504,9 +3504,9 @@ Callback arguments:
   <phrase title="please_provide_url_of_non_redirect_thread" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Please provide the URL of a non-redirect thread.]]></phrase>
   <phrase title="please_provide_valid_x_xml_file" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Please provide a valid {rootName} XML file.]]></phrase>
   <phrase title="please_provide_valid_xml_file" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Please provide a valid XML file.]]></phrase>
-  <phrase title="please_read_and_accept_our_privacy_policy_before_continuing" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Please read and accept our privacy policy before continuing.]]></phrase>
-  <phrase title="please_read_and_accept_our_terms_and_privacy_policy_before_continuing" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Please read and accept our terms and privacy policy before continuing.]]></phrase>
-  <phrase title="please_read_and_accept_our_terms_and_rules_before_continuing" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Please read and accept our terms and rules before continuing.]]></phrase>
+  <phrase title="please_read_and_accept_our_privacy_policy_before_continuing" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Var god läs och samtyck till integritetspolicyn före du fortsätter.]]></phrase>
+  <phrase title="please_read_and_accept_our_terms_and_privacy_policy_before_continuing" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Var god läs och samtyck till medlemsvillkoren och integritetspolicyn före du fortsätter.]]></phrase>
+  <phrase title="please_read_and_accept_our_terms_and_rules_before_continuing" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Var god läs och samtyck till medlemsvillkoren före du fortsätter.]]></phrase>
   <phrase title="please_review_files" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Please review the files]]></phrase>
   <phrase title="please_review_warnings_and_confirm_you_wish_to_proceed_installing" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Please review the warnings and confirm you wish to proceed installing the following add-on]]></phrase>
   <phrase title="please_review_warnings_and_confirm_you_wish_to_proceed_rebuilding" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Please review the warnings and confirm you wish to proceed rebuilding the following add-on's master data]]></phrase>
@@ -3610,7 +3610,7 @@ Callback arguments:
   <phrase title="primary_user_group" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Primary user group]]></phrase>
   <phrase title="privacy" addon_id="XF" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Privacy]]></phrase>
   <phrase title="privacy_options" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Privacy options]]></phrase>
-  <phrase title="privacy_policy" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Privacy policy]]></phrase>
+  <phrase title="privacy_policy" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Integritetspolicy]]></phrase>
   <phrase title="privacy_policy_text" addon_id="XF" version_id="2000632" version_string="2.0.6 Beta 2"><![CDATA[<p>We are {board_title} ("we", "our", "us"). We’re committed to protecting and respecting your privacy. If you have questions about your personal information please <a href="{contactUrl}">contact us</a>.</p>
 
 <h2>What information we hold about you</h2>
@@ -3652,8 +3652,8 @@ Callback arguments:
 <p>You have a right to access the personal data we hold about you or obtain a copy of it. To do so please <a href="{contactUrl}">contact us</a>. If you believe that the information we hold for you is incomplete or inaccurate, you may <a href="{contactUrl}">contact us</a> to ask us to complete or correct that information.</p>
 <p>You also have the right to request the erasure of your personal data. Please <a href="{contactUrl}">contact us</a> if you would like us to remove your personal data.</p>
 
-<h2>Acceptance of this policy</h2>
-<p>Continued use of our site signifies your acceptance of this policy. If you do not accept the policy then please do not use this site. When registering we will further request your explicit acceptance of the privacy policy.</p>
+<h2>Samtycke till integritetspolicyn</h2>
+<p>Continued use of our site signifies your acceptance of this policy. If you do not accept the policy then please do not use this site. When registering we will further request your explicit acceptance of the integritetspolicyn.</p>
 
 <h2>Changes to this policy</h2>
 <p>We may make changes to this policy at any time. You may be asked to review and re-accept the information in this policy if it changes in the future.</p>]]></phrase>
@@ -4785,7 +4785,7 @@ You will also need to set up a webhook endpoint in your Stripe account with the 
   <phrase title="templates" addon_id="XF" version_id="0" version_string=""><![CDATA[Templates]]></phrase>
   <phrase title="templates_in_this_style_can_not_be_modified" addon_id="XF" version_id="0" version_string=""><![CDATA[Templates in this style can not be modified. Please try another.]]></phrase>
   <phrase title="temporary" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Temporary]]></phrase>
-  <phrase title="terms_and_rules" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Terms and rules]]></phrase>
+  <phrase title="terms_and_rules" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Medlemsvillkor]]></phrase>
   <phrase title="terms_rules_text" addon_id="XF" version_id="2000632" version_string="2.0.6 Beta 2"><![CDATA[<p>The providers ("we", "us", "our") of the service provided by this web site ("Service") are not responsible for any user-generated content and accounts. Content submitted express the views of their author only.</p>
 
 <p>This Service is only available to users who are at least {age} years old. If you are younger than this, please do not register for this Service. If you register for this Service, you represent that you are this age or older.</p>
@@ -5731,8 +5731,8 @@ Callback arguments:
   <phrase title="you_cannot_reassign_this_report_to_this_user" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[You cannot reassign this report to this user.]]></phrase>
   <phrase title="you_cannot_start_conversation_with_yourself" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[You cannot start a conversation with yourself.]]></phrase>
   <phrase title="you_did_not_grant_permission_to_access_connected_account" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Unfortunately, you did not grant permission to access your connected account. This is required to continue.]]></phrase>
-  <phrase title="you_do_not_currently_have_privacy_policy_url" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[You do not currently have a privacy policy URL.]]></phrase>
-  <phrase title="you_do_not_currently_have_terms_and_rules_url" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[You do not currently have a terms and rules URL.]]></phrase>
+  <phrase title="you_do_not_currently_have_privacy_policy_url" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Det saknas URL för integritetspolicy.]]></phrase>
+  <phrase title="you_do_not_currently_have_terms_and_rules_url" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Det saknas URL för medlemsvillkor.]]></phrase>
   <phrase title="you_do_not_have_any_recent_alerts" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[You do not have any recent alerts.]]></phrase>
   <phrase title="you_have_been_awarded_a_trophy_x" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[<strong class="subject">You</strong> have been awarded a trophy: {trophy}]]></phrase>
   <phrase title="you_have_been_banned" addon_id="XF" version_id="0" version_string=""><![CDATA[You have been banned.]]></phrase>
