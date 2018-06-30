@@ -6,11 +6,14 @@ This is a complete translation of XenForo 2.x.x to Swedish.
 #### Prerequisits
 * [xenForo](https://xenforo.com) version **2.0** or later
 
-## Installation
-To import a language in ACP, choose the Import a Language option in the Appearance tab. You have the option to create a new language or overwrite an existing one. If you overwrite an existing language, any customizations you have made will be overwritten by the language you’re importing.
+## Work in progress
+This project has just started. We recommend that you read the conversation [here](https://thaisnack.se/threads/hjaelp-oss-oeversaetta-forumet-till-perfekt-svenska.13627/) to find out the progress. It's absolutely not yet finished to install on a production web site.
 
 ## Collaborators wanted
 We are looking for more people to help with keeping the swedish translation as good as possible. Before you start to do any work, it's important that you are assigned an agreed range of lines to translate to avoid that several people are translating the same phrases. Please join the conversation [here](https://thaisnack.se/threads/hjaelp-oss-oeversaetta-forumet-till-perfekt-svenska.13627/) to start with.
+
+## Installation
+To import a language in ACP, choose the Import a Language option in the Appearance tab. You have the option to create a new language or overwrite an existing one. If you overwrite an existing language, any customizations you have made will be overwritten by the language you’re importing.
 
 ## Found something wrong?
 Help us by correcting it and make a [pull request](https://github.com/thaisnack/XF2-Swedish/pulls). As an alternative you can  [report an issue](https://github.com/thaisnack/XF2-Swedish/issues)
