@@ -79,7 +79,7 @@
   <phrase title="ad_pos_desc.forum_view_above_node_list" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[En position som visas precis ovanför nodlistan medan du tittar på ett forum. Detta visas bara om det finns barnnoder som ska visas.]]></phrase> <!-- (C) Original: A position that appears just above the node list while viewing a forum. This only appears if there are child nodes to display. -->
   <phrase title="ad_pos_desc.forum_view_above_thread_list" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tillgänglig ovanför listan över trådar medan du tittar på ett forum.]]></phrase> <!-- (C) Original: Available above the list of threads while viewing a forum. -->
   <phrase title="ad_pos_desc.forum_view_below_node_list" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[En position som visas strax under nodlistan medan du tittar på ett forum. Detta visas bara om det finns barnnoder som ska visas.]]></phrase> <!-- (C) Original: A position that appears just below the node list while viewing a forum. This only appears if there are child nodes to display. -->
-  <phrase title="ad_pos_desc.forum_view_below_stickies" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Placera synligt under listan över klibbiga trådar medan du tittar på ett forum. Detta visas bara om det finns klibbiga trådar.]]></phrase> <!-- (C) Original: Position visible below the list of sticky threads while viewing a forum. This only appears if there are sticky threads. -->
+  <phrase title="ad_pos_desc.forum_view_below_stickies" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Placera synligt under listan över klistrade trådar medan du tittar på ett forum. Detta visas bara om det finns klistrade trådar.]]></phrase> <!-- (C) Original: Position visible below the list of sticky threads while viewing a forum. This only appears if there are sticky threads. -->
   <phrase title="ad_pos_desc.forum_view_below_thread_list" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Finns under listan över trådar medan du tittar på ett forum.]]></phrase> <!-- (C) Original: Available below the list of threads while viewing a forum. -->
   <phrase title="ad_pos_desc.member_view_below_tabs" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Direkt under flikarna (och ovanför flikrutorna) på varje medlems profil.]]></phrase> <!-- (C) Original: Directly below the tabs (and above the tab panes) on every member's profile. -->
   <phrase title="ad_pos_desc.post_above_content" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Den här positionen ligger över meddelandets innehåll i varje inlägg.]]></phrase> <!-- (C) Original: This position is above the message content in every post. -->
@@ -265,7 +265,7 @@
   <phrase title="admin_navigation.styleProperties" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Style egenskaper]]></phrase> <!-- (C) Original: Style properties -->
   <phrase title="admin_navigation.styles" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Styles]]></phrase> <!-- (C) Original: Styles -->
   <phrase title="admin_navigation.stylesAndTemplates" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Styles & amp; mallar]]></phrase> <!-- (C) Original: Styles &amp; templates -->
-  <phrase title="admin_navigation.tags" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tags]]></phrase> <!-- (C) Original: Tags -->
+  <phrase title="admin_navigation.tags" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Taggar]]></phrase> <!-- (C) Original: Tags -->
   <phrase title="admin_navigation.templateModifications" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Malländringar]]></phrase> <!-- (C) Original: Template modifications -->
   <phrase title="admin_navigation.templates" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Mallar]]></phrase> <!-- (C) Original: Templates -->
   <phrase title="admin_navigation.testImageProxy" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Testa bildproxy]]></phrase> <!-- (C) Original: Test image proxy -->
@@ -368,8 +368,8 @@
   <phrase title="alert_user_following" addon_id="XF" version_id="0" version_string=""><![CDATA[{username} följer dig nu.]]></phrase> <!-- (C) Original: {username} is now following you. -->
   <phrase title="alert_users" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Alert användare]]></phrase> <!-- (C) Original: Alert users -->
   <phrase title="alert_users_description" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Du kan använda det här formuläret för att skicka en varning till de användare som matchar kriterierna nedan.]]></phrase> <!-- (C) Original: You can use this form to send an alert to the users which match the criteria specified below. -->
-  <phrase title="alerting" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Varna]]></phrase> <!-- (C) Original: Alerting -->
-  <phrase title="alerts" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Varningar]]></phrase> <!-- (C) Original: Alerts -->
+  <phrase title="alerting" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Notifiera]]></phrase> <!-- (C) Original: Alerting -->
+  <phrase title="alerts" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Notiser]]></phrase> <!-- (C) Original: Alerts -->
   <phrase title="align_center" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Centrera i linje med]]></phrase> <!-- (C) Original: Align center -->
   <phrase title="align_left" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Justera vänster]]></phrase> <!-- (C) Original: Align left -->
   <phrase title="align_right" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Anpassa till höger]]></phrase> <!-- (C) Original: Align right -->
@@ -1124,7 +1124,7 @@ If you have edited these files yourself, you may ignore this message, otherwise 
   <phrase title="date_presets" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Datum förinställningar]]></phrase> <!-- (C) Original: Date presets -->
   <phrase title="date_range" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Datumintervall]]></phrase> <!-- (C) Original: Date range -->
   <phrase title="date_time" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Datum Tid]]></phrase> <!-- (C) Original: Date / time -->
-  <phrase title="date_x_at_time_y" addon_id="XF" global_cache="1" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{date} vid {time}]]></phrase> <!-- (C) Original: {date} at {time} -->
+  <phrase title="date_x_at_time_y" addon_id="XF" global_cache="1" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{date} kl {time}]]></phrase> <!-- (C) Original: {date} at {time} -->
   <phrase title="day" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Dag]]></phrase> <!-- (C) Original: Day -->
   <phrase title="day_friday" addon_id="XF" global_cache="1" version_id="0" version_string=""><![CDATA[Fredag]]></phrase> <!-- (C) Original: Friday -->
   <phrase title="day_friday_short" addon_id="XF" global_cache="1" version_id="0" version_string=""><![CDATA[Fri]]></phrase> <!-- (C) Original: Fri -->
@@ -1142,7 +1142,7 @@ If you have edited these files yourself, you may ignore this message, otherwise 
   <phrase title="day_tuesday_short" addon_id="XF" global_cache="1" version_id="0" version_string=""><![CDATA[Din]]></phrase> <!-- (C) Original: Tue -->
   <phrase title="day_wednesday" addon_id="XF" global_cache="1" version_id="0" version_string=""><![CDATA[Onsdag]]></phrase> <!-- (C) Original: Wednesday -->
   <phrase title="day_wednesday_short" addon_id="XF" global_cache="1" version_id="0" version_string=""><![CDATA[Ons]]></phrase> <!-- (C) Original: Wed -->
-  <phrase title="day_x_at_time_y" addon_id="XF" global_cache="1" version_id="0" version_string=""><![CDATA[{day} vid {time}]]></phrase> <!-- (C) Original: {day} at {time} -->
+  <phrase title="day_x_at_time_y" addon_id="XF" global_cache="1" version_id="0" version_string=""><![CDATA[{day} kl {time}]]></phrase> <!-- (C) Original: {day} at {time} -->
   <phrase title="days" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Dagar]]></phrase> <!-- (C) Original: Days -->
   <phrase title="days_to_process_per_page" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Dagar att bearbeta per sida]]></phrase> <!-- (C) Original: Days to process per page -->
   <phrase title="deactivate" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Avaktivera]]></phrase> <!-- (C) Original: Deactivate -->
@@ -1554,13 +1554,13 @@ Your callback should return an HTML string, and have a signature as follows:<br 
   <phrase title="filter_by_user" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Filtrera efter användare]]></phrase> <!-- (C) Original: Filter by user -->
   <phrase title="filter_followed_members" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Följande medlemmar]]></phrase> <!-- (C) Original: Followed members -->
   <phrase title="filter_participated" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Deltog]]></phrase> <!-- (C) Original: Participated -->
-  <phrase title="filter_started" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Satte igång]]></phrase> <!-- (C) Original: Started -->
-  <phrase title="filter_unanswered" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Obesvarad]]></phrase> <!-- (C) Original: Unanswered -->
-  <phrase title="filter_unread" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Oläst]]></phrase> <!-- (C) Original: Unread -->
+  <phrase title="filter_started" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Startade]]></phrase> <!-- (C) Original: Started -->
+  <phrase title="filter_unanswered" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Obesvarade]]></phrase> <!-- (C) Original: Unanswered -->
+  <phrase title="filter_unread" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Olästa]]></phrase> <!-- (C) Original: Unread -->
   <phrase title="filter_watched" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bevakade]]></phrase> <!-- (C) Original: Watched -->
   <phrase title="filters" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Filter]]></phrase> <!-- (C) Original: Filters -->
-  <phrase title="finalize_import" addon_id="XF" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[Slutföra importen]]></phrase> <!-- (C) Original: Finalize import -->
-  <phrase title="finalizing" addon_id="XF" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[Slutbehandling]]></phrase> <!-- (C) Original: Finalizing -->
+  <phrase title="finalize_import" addon_id="XF" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[Slutför importen]]></phrase> <!-- (C) Original: Finalize import -->
+  <phrase title="finalizing" addon_id="XF" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[Slutbehandlar]]></phrase> <!-- (C) Original: Finalizing -->
   <phrase title="find" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Hitta]]></phrase> <!-- (C) Original: Find -->
   <phrase title="find_all_content_by_x" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Hitta allt innehåll med {name}]]></phrase> <!-- (C) Original: Find all content by {name} -->
   <phrase title="find_all_threads_by_x" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Hitta alla trådar av {name}]]></phrase> <!-- (C) Original: Find all threads by {name} -->
@@ -1569,7 +1569,7 @@ Your callback should return an HTML string, and have a signature as follows:<br 
   <phrase title="find_reports" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Hitta rapporter]]></phrase> <!-- (C) Original: Find reports -->
   <phrase title="find_reports_for_member" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Hitta rapporter för medlem]]></phrase> <!-- (C) Original: Find reports for member -->
   <phrase title="find_route" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Hitta väg]]></phrase> <!-- (C) Original: Find route -->
-  <phrase title="find_route_must_start_with_route_prefix" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Sökvägen måste börja med ett ruttprefix.]]></phrase> <!-- (C) Original: The find route must start with a route prefix. -->
+  <phrase title="find_route_must_start_with_route_prefix" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Sökvägen måste börja med ett "route prefix".]]></phrase> <!-- (C) Original: The find route must start with a route prefix. -->
   <phrase title="first" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Först]]></phrase> <!-- (C) Original: First -->
   <phrase title="first_message" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Första meddelandet]]></phrase> <!-- (C) Original: First message -->
   <phrase title="first_message_likes" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Första meddelandet gillar]]></phrase> <!-- (C) Original: First message likes -->
@@ -1929,7 +1929,7 @@ The XML file will be placed into your 'internal-data' folder, using the file nam
   <phrase title="javascript_is_disabled_please_enable_before_proceeding" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[JavaScript är inaktiverat. För en bättre upplevelse, vänligen aktivera JavaScript i din webbläsare innan du fortsätter.]]></phrase> <!-- (C) Original: JavaScript is disabled. For a better experience, please enable JavaScript in your browser before proceeding. -->
   <phrase title="join_date" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Gå med i datumet]]></phrase> <!-- (C) Original: Join date -->
   <phrase title="joined" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Blev medlem]]></phrase> <!-- (C) Original: Joined -->
-  <phrase title="jump_to_new" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Hoppa till nytt]]></phrase> <!-- (C) Original: Jump to new -->
+  <phrase title="jump_to_new" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Gå till nytt]]></phrase> <!-- (C) Original: Jump to new -->
   <phrase title="keywords" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Nyckelord]]></phrase> <!-- (C) Original: Keywords -->
   <phrase title="label_separator" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Etikettavskiljare]]></phrase> <!-- (C) Original: Label separator -->
   <phrase title="language" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Språk]]></phrase> <!-- (C) Original: Language -->
@@ -1941,79 +1941,79 @@ The XML file will be placed into your 'internal-data' folder, using the file nam
   <phrase title="language_code.ay_BO" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Aymara]]></phrase> <!-- (C) Original: Aymara -->
   <phrase title="language_code.az_AZ" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Azeriska]]></phrase> <!-- (C) Original: Azeri -->
   <phrase title="language_code.be_BY" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Vitryska]]></phrase> <!-- (C) Original: Belarusian -->
-  <phrase title="language_code.bg_BG" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bulgarisk]]></phrase> <!-- (C) Original: Bulgarian -->
-  <phrase title="language_code.bn_IN" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bengali]]></phrase> <!-- (C) Original: Bengali -->
-  <phrase title="language_code.bs_BA" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bosnisk]]></phrase> <!-- (C) Original: Bosnian -->
-  <phrase title="language_code.ca_ES" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Katalansk]]></phrase> <!-- (C) Original: Catalan -->
+  <phrase title="language_code.bg_BG" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bulgariska]]></phrase> <!-- (C) Original: Bulgarian -->
+  <phrase title="language_code.bn_IN" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bengaliska]]></phrase> <!-- (C) Original: Bengali -->
+  <phrase title="language_code.bs_BA" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bosniska]]></phrase> <!-- (C) Original: Bosnian -->
+  <phrase title="language_code.ca_ES" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Katalanska]]></phrase> <!-- (C) Original: Catalan -->
   <phrase title="language_code.ck_US" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Cherokee]]></phrase> <!-- (C) Original: Cherokee -->
-  <phrase title="language_code.cs_CZ" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tjeck]]></phrase> <!-- (C) Original: Czech -->
+  <phrase title="language_code.cs_CZ" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tjeckiska]]></phrase> <!-- (C) Original: Czech -->
   <phrase title="language_code.cx_PH" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Cebuano]]></phrase> <!-- (C) Original: Cebuano -->
-  <phrase title="language_code.cy_GB" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Walesisk]]></phrase> <!-- (C) Original: Welsh -->
+  <phrase title="language_code.cy_GB" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Walesiska]]></phrase> <!-- (C) Original: Welsh -->
   <phrase title="language_code.da_DK" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Danska]]></phrase> <!-- (C) Original: Danish -->
-  <phrase title="language_code.de_DE" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tysk]]></phrase> <!-- (C) Original: German -->
-  <phrase title="language_code.el_GR" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Grekisk]]></phrase> <!-- (C) Original: Greek -->
+  <phrase title="language_code.de_DE" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tyska]]></phrase> <!-- (C) Original: German -->
+  <phrase title="language_code.el_GR" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Grekiska]]></phrase> <!-- (C) Original: Greek -->
   <phrase title="language_code.en_GB" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Engelska (brittiska)]]></phrase> <!-- (C) Original: English (UK) -->
-  <phrase title="language_code.en_US" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Engelska oss)]]></phrase> <!-- (C) Original: English (US) -->
+  <phrase title="language_code.en_US" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Engelska US)]]></phrase> <!-- (C) Original: English (US) -->
   <phrase title="language_code.eo_EO" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Esperanto]]></phrase> <!-- (C) Original: Esperanto -->
-  <phrase title="language_code.es_CL" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Spanska (chilen)]]></phrase> <!-- (C) Original: Spanish (Chile) -->
+  <phrase title="language_code.es_CL" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Spanska (Chile)]]></phrase> <!-- (C) Original: Spanish (Chile) -->
   <phrase title="language_code.es_CO" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Spanska (Colombia)]]></phrase> <!-- (C) Original: Spanish (Colombia) -->
-  <phrase title="language_code.es_ES" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Spanska (spanien)]]></phrase> <!-- (C) Original: Spanish (Spain) -->
-  <phrase title="language_code.es_LA" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Spansk]]></phrase> <!-- (C) Original: Spanish -->
-  <phrase title="language_code.es_MX" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Spanska (mexico)]]></phrase> <!-- (C) Original: Spanish (Mexico) -->
+  <phrase title="language_code.es_ES" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Spanska (Spanien)]]></phrase> <!-- (C) Original: Spanish (Spain) -->
+  <phrase title="language_code.es_LA" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Spanska]]></phrase> <!-- (C) Original: Spanish -->
+  <phrase title="language_code.es_MX" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Spanska (Mexico)]]></phrase> <!-- (C) Original: Spanish (Mexico) -->
   <phrase title="language_code.es_VE" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Spanska (Venezuela)]]></phrase> <!-- (C) Original: Spanish (Venezuela) -->
   <phrase title="language_code.et_EE" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Estniska]]></phrase> <!-- (C) Original: Estonian -->
   <phrase title="language_code.eu_ES" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Baskiska]]></phrase> <!-- (C) Original: Basque -->
-  <phrase title="language_code.fa_IR" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Perser]]></phrase> <!-- (C) Original: Persian -->
+  <phrase title="language_code.fa_IR" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Persiska]]></phrase> <!-- (C) Original: Persian -->
   <phrase title="language_code.ff_NG" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Fulani]]></phrase> <!-- (C) Original: Fulah -->
-  <phrase title="language_code.fi_FI" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Finsk]]></phrase> <!-- (C) Original: Finnish -->
+  <phrase title="language_code.fi_FI" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Finska]]></phrase> <!-- (C) Original: Finnish -->
   <phrase title="language_code.fo_FO" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Faroese]]></phrase> <!-- (C) Original: Faroese -->
-  <phrase title="language_code.fr_CA" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Franska (canada)]]></phrase> <!-- (C) Original: French (Canada) -->
-  <phrase title="language_code.fr_FR" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Franska (frankrike)]]></phrase> <!-- (C) Original: French (France) -->
-  <phrase title="language_code.ga_IE" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Irländsk]]></phrase> <!-- (C) Original: Irish -->
+  <phrase title="language_code.fr_CA" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Franska (Canada)]]></phrase> <!-- (C) Original: French (Canada) -->
+  <phrase title="language_code.fr_FR" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Franska (Frankrike)]]></phrase> <!-- (C) Original: French (France) -->
+  <phrase title="language_code.ga_IE" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Irländska]]></phrase> <!-- (C) Original: Irish -->
   <phrase title="language_code.gl_ES" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Galiciska]]></phrase> <!-- (C) Original: Galician -->
   <phrase title="language_code.gu_IN" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Gujarati]]></phrase> <!-- (C) Original: Gujarati -->
   <phrase title="language_code.ha_NG" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Hausa]]></phrase> <!-- (C) Original: Hausa -->
   <phrase title="language_code.he_IL" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Hebreiska]]></phrase> <!-- (C) Original: Hebrew -->
-  <phrase title="language_code.hi_IN" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Inte]]></phrase> <!-- (C) Original: Hindi -->
-  <phrase title="language_code.hr_HR" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kroatisk]]></phrase> <!-- (C) Original: Croatian -->
+  <phrase title="language_code.hi_IN" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Hindi]]></phrase> <!-- (C) Original: Hindi -->
+  <phrase title="language_code.hr_HR" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kroatiska]]></phrase> <!-- (C) Original: Croatian -->
   <phrase title="language_code.ht_HT" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Haitisk kreol]]></phrase> <!-- (C) Original: Haitian Creole -->
   <phrase title="language_code.hu_HU" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ungerska]]></phrase> <!-- (C) Original: Hungarian -->
-  <phrase title="language_code.hy_AM" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Armenier]]></phrase> <!-- (C) Original: Armenian -->
-  <phrase title="language_code.id_ID" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Indonesisk]]></phrase> <!-- (C) Original: Indonesian -->
+  <phrase title="language_code.hy_AM" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Armeniska]]></phrase> <!-- (C) Original: Armenian -->
+  <phrase title="language_code.id_ID" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Indonesiska]]></phrase> <!-- (C) Original: Indonesian -->
   <phrase title="language_code.ig_NG" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Igbo]]></phrase> <!-- (C) Original: Igbo -->
-  <phrase title="language_code.is_IS" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Isländsk]]></phrase> <!-- (C) Original: Icelandic -->
+  <phrase title="language_code.is_IS" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Isländska]]></phrase> <!-- (C) Original: Icelandic -->
   <phrase title="language_code.it_IT" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Italienska]]></phrase> <!-- (C) Original: Italian -->
-  <phrase title="language_code.ja_JP" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Japansk]]></phrase> <!-- (C) Original: Japanese -->
-  <phrase title="language_code.jv_ID" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Javanese]]></phrase> <!-- (C) Original: Javanese -->
-  <phrase title="language_code.ka_GE" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Georgiansk]]></phrase> <!-- (C) Original: Georgian -->
+  <phrase title="language_code.ja_JP" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Japanska]]></phrase> <!-- (C) Original: Japanese -->
+  <phrase title="language_code.jv_ID" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Javanesiska]]></phrase> <!-- (C) Original: Javanese -->
+  <phrase title="language_code.ka_GE" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Georgianska]]></phrase> <!-- (C) Original: Georgian -->
   <phrase title="language_code.kk_KZ" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kazakiska]]></phrase> <!-- (C) Original: Kazakh -->
   <phrase title="language_code.km_KH" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Khmer]]></phrase> <!-- (C) Original: Khmer -->
   <phrase title="language_code.kn_IN" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kannada]]></phrase> <!-- (C) Original: Kannada -->
-  <phrase title="language_code.ko_KR" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Korean]]></phrase> <!-- (C) Original: Korean -->
-  <phrase title="language_code.ku_TR" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kurdisk]]></phrase> <!-- (C) Original: Kurdish -->
-  <phrase title="language_code.la_VA" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Latin]]></phrase> <!-- (C) Original: Latin -->
-  <phrase title="language_code.li_NL" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Limburg]]></phrase> <!-- (C) Original: Limburgish -->
-  <phrase title="language_code.lo_LA" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lao]]></phrase> <!-- (C) Original: Lao -->
-  <phrase title="language_code.lt_LT" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Litauisk]]></phrase> <!-- (C) Original: Lithuanian -->
-  <phrase title="language_code.lv_LV" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lettisk]]></phrase> <!-- (C) Original: Latvian -->
+  <phrase title="language_code.ko_KR" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Koreanska]]></phrase> <!-- (C) Original: Korean -->
+  <phrase title="language_code.ku_TR" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kurdiska]]></phrase> <!-- (C) Original: Kurdish -->
+  <phrase title="language_code.la_VA" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Latinska]]></phrase> <!-- (C) Original: Latin -->
+  <phrase title="language_code.li_NL" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Limburgska]]></phrase> <!-- (C) Original: Limburgish -->
+  <phrase title="language_code.lo_LA" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Laotiska]]></phrase> <!-- (C) Original: Lao -->
+  <phrase title="language_code.lt_LT" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Litauiska]]></phrase> <!-- (C) Original: Lithuanian -->
+  <phrase title="language_code.lv_LV" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lettiska]]></phrase> <!-- (C) Original: Latvian -->
   <phrase title="language_code.mg_MG" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Malagasy]]></phrase> <!-- (C) Original: Malagasy -->
   <phrase title="language_code.mk_MK" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Makedonska]]></phrase> <!-- (C) Original: Macedonian -->
   <phrase title="language_code.ml_IN" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Malayalam]]></phrase> <!-- (C) Original: Malayalam -->
   <phrase title="language_code.mn_MN" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Mongoliska]]></phrase> <!-- (C) Original: Mongolian -->
   <phrase title="language_code.mr_IN" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Marathi]]></phrase> <!-- (C) Original: Marathi -->
   <phrase title="language_code.ms_MY" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Malay]]></phrase> <!-- (C) Original: Malay -->
-  <phrase title="language_code.mt_MT" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Maltesisk]]></phrase> <!-- (C) Original: Maltese -->
+  <phrase title="language_code.mt_MT" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Maltesiska]]></phrase> <!-- (C) Original: Maltese -->
   <phrase title="language_code.my_MM" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Burmesiska]]></phrase> <!-- (C) Original: Burmese -->
-  <phrase title="language_code.nb_NO" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Norwegian (bokmal)]]></phrase> <!-- (C) Original: Norwegian (bokmal) -->
-  <phrase title="language_code.ne_NP" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Nepali]]></phrase> <!-- (C) Original: Nepali -->
+  <phrase title="language_code.nb_NO" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Norska (Bokmal)]]></phrase> <!-- (C) Original: Norwegian (bokmal) -->
+  <phrase title="language_code.ne_NP" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Nepalska]]></phrase> <!-- (C) Original: Nepali -->
   <phrase title="language_code.nl_NL" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Holländska]]></phrase> <!-- (C) Original: Dutch -->
-  <phrase title="language_code.nn_NO" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Norwegian (nynorsk)]]></phrase> <!-- (C) Original: Norwegian (nynorsk) -->
+  <phrase title="language_code.nn_NO" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Norka (Nynorsk)]]></phrase> <!-- (C) Original: Norwegian (nynorsk) -->
   <phrase title="language_code.or_IN" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Oriya]]></phrase> <!-- (C) Original: Oriya -->
   <phrase title="language_code.pa_IN" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Punjabi]]></phrase> <!-- (C) Original: Punjabi -->
   <phrase title="language_code.pl_PL" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Putsa]]></phrase> <!-- (C) Original: Polish -->
   <phrase title="language_code.ps_AF" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Afghanska]]></phrase> <!-- (C) Original: Pashto -->
   <phrase title="language_code.pt_BR" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Portugisiska (Brasilien)]]></phrase> <!-- (C) Original: Portuguese (Brazil) -->
-  <phrase title="language_code.pt_PT" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Portugisiska (portugal)]]></phrase> <!-- (C) Original: Portuguese (Portugal) -->
+  <phrase title="language_code.pt_PT" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Portugisiska (Portugal)]]></phrase> <!-- (C) Original: Portuguese (Portugal) -->
   <phrase title="language_code.qu_PE" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Quechua]]></phrase> <!-- (C) Original: Quechua -->
   <phrase title="language_code.rm_CH" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Rätoromanska]]></phrase> <!-- (C) Original: Romansh -->
   <phrase title="language_code.ro_RO" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Rumänska]]></phrase> <!-- (C) Original: Romanian -->
@@ -2021,29 +2021,29 @@ The XML file will be placed into your 'internal-data' folder, using the file nam
   <phrase title="language_code.sa_IN" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sanskrit]]></phrase> <!-- (C) Original: Sanskrit -->
   <phrase title="language_code.sk_SK" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Slovakiska]]></phrase> <!-- (C) Original: Slovak -->
   <phrase title="language_code.sl_SI" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Slovenska]]></phrase> <!-- (C) Original: Slovenian -->
-  <phrase title="language_code.so_SO" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Somali]]></phrase> <!-- (C) Original: Somali -->
-  <phrase title="language_code.sq_AL" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Albansk]]></phrase> <!-- (C) Original: Albanian -->
-  <phrase title="language_code.sr_RS" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Serb]]></phrase> <!-- (C) Original: Serbian -->
+  <phrase title="language_code.so_SO" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Somaliska]]></phrase> <!-- (C) Original: Somali -->
+  <phrase title="language_code.sq_AL" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Albanska]]></phrase> <!-- (C) Original: Albanian -->
+  <phrase title="language_code.sr_RS" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Serbiska]]></phrase> <!-- (C) Original: Serbian -->
   <phrase title="language_code.sv_SE" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Svenska]]></phrase> <!-- (C) Original: Swedish -->
   <phrase title="language_code.sw_KE" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Swahili]]></phrase> <!-- (C) Original: Swahili -->
   <phrase title="language_code.sy_SY" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Syriska]]></phrase> <!-- (C) Original: Syriac -->
-  <phrase title="language_code.ta_IN" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tamil]]></phrase> <!-- (C) Original: Tamil -->
+  <phrase title="language_code.ta_IN" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tamiliska]]></phrase> <!-- (C) Original: Tamil -->
   <phrase title="language_code.te_IN" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Telugu]]></phrase> <!-- (C) Original: Telugu -->
   <phrase title="language_code.tg_TJ" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tadzjikiska]]></phrase> <!-- (C) Original: Tajik -->
   <phrase title="language_code.th_TH" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Thai]]></phrase> <!-- (C) Original: Thai -->
-  <phrase title="language_code.tl_PH" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Filippinare]]></phrase> <!-- (C) Original: Filipino -->
+  <phrase title="language_code.tl_PH" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Filippinska]]></phrase> <!-- (C) Original: Filipino -->
   <phrase title="language_code.tl_ST" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Klingon]]></phrase> <!-- (C) Original: Klingon -->
   <phrase title="language_code.tr_TR" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Turkiska]]></phrase> <!-- (C) Original: Turkish -->
   <phrase title="language_code.tt_RU" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tartar]]></phrase> <!-- (C) Original: Tatar -->
-  <phrase title="language_code.uk_UA" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ukrainare]]></phrase> <!-- (C) Original: Ukrainian -->
+  <phrase title="language_code.uk_UA" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ukrainska]]></phrase> <!-- (C) Original: Ukrainian -->
   <phrase title="language_code.ur_PK" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Urdu]]></phrase> <!-- (C) Original: Urdu -->
   <phrase title="language_code.uz_UZ" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Uzbekiska]]></phrase> <!-- (C) Original: Uzbek -->
-  <phrase title="language_code.vi_VN" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Vietnames]]></phrase> <!-- (C) Original: Vietnamese -->
+  <phrase title="language_code.vi_VN" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Vietnamesiska]]></phrase> <!-- (C) Original: Vietnamese -->
   <phrase title="language_code.xh_ZA" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Xhosa]]></phrase> <!-- (C) Original: Xhosa -->
   <phrase title="language_code.yi_DE" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Jiddisch]]></phrase> <!-- (C) Original: Yiddish -->
   <phrase title="language_code.yo_NG" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yoruba]]></phrase> <!-- (C) Original: Yoruba -->
-  <phrase title="language_code.zh_CN" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Förenklad kinesiska)]]></phrase> <!-- (C) Original: Chinese (Simplified) -->
-  <phrase title="language_code.zh_HK" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kinesisk (traditionell, Hong Kong)]]></phrase> <!-- (C) Original: Chinese (Traditional, Hong Kong) -->
+  <phrase title="language_code.zh_CN" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kinesiska (förenklad)]]></phrase> <!-- (C) Original: Chinese (Simplified) -->
+  <phrase title="language_code.zh_HK" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kinesiska (traditionell, Hong Kong)]]></phrase> <!-- (C) Original: Chinese (Traditional, Hong Kong) -->
   <phrase title="language_code.zh_TW" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kinesiska (traditionell, Taiwan)]]></phrase> <!-- (C) Original: Chinese (Traditional, Taiwan) -->
   <phrase title="language_code.zu_ZA" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Zulu-]]></phrase> <!-- (C) Original: Zulu -->
   <phrase title="languages" addon_id="XF" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Språk]]></phrase> <!-- (C) Original: Languages -->
@@ -2069,7 +2069,7 @@ The XML file will be placed into your 'internal-data' folder, using the file nam
   <phrase title="last_used" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Senast använd]]></phrase> <!-- (C) Original: Last used -->
   <phrase title="last_visited_between" addon_id="XF" version_id="1020032" version_string="1.2.0 Beta 2"><![CDATA[Senast besökta mellan]]></phrase> <!-- (C) Original: Last visited between -->
   <phrase title="last_week" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Förra veckan]]></phrase> <!-- (C) Original: Last week -->
-  <phrase title="later_today_at_x" addon_id="XF" global_cache="1" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Senare idag vid {time}]]></phrase> <!-- (C) Original: Later today at {time} -->
+  <phrase title="later_today_at_x" addon_id="XF" global_cache="1" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Senare idag kl {time}]]></phrase> <!-- (C) Original: Later today at {time} -->
   <phrase title="latest" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Senast]]></phrase> <!-- (C) Original: Latest -->
   <phrase title="latest_activity" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Senaste aktivitet]]></phrase> <!-- (C) Original: Latest activity -->
   <phrase title="latest_member" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Senaste medlemmen]]></phrase> <!-- (C) Original: Latest member -->
@@ -2095,10 +2095,10 @@ The XML file will be placed into your 'internal-data' folder, using the file nam
   <phrase title="lift" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Hiss]]></phrase> <!-- (C) Original: Lift -->
   <phrase title="lift_ban" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Hissförbud]]></phrase> <!-- (C) Original: Lift ban -->
   <phrase title="light" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Ljus]]></phrase> <!-- (C) Original: Light -->
-  <phrase title="like" addon_id="XF" version_id="0" version_string=""><![CDATA[Tycka om]]></phrase> <!-- (C) Original: Like -->
+  <phrase title="like" addon_id="XF" version_id="0" version_string=""><![CDATA[Gilla]]></phrase> <!-- (C) Original: Like -->
   <phrase title="like_content" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Gilla innehåll]]></phrase> <!-- (C) Original: Like content -->
-  <phrase title="like_counts" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Precis som räknas]]></phrase> <!-- (C) Original: Like counts -->
-  <phrase title="like_message_ratio_explanation" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[En användare med 10 meddelanden och 5 gillar kommer att ha ett förhållande på 0,5.]]></phrase> <!-- (C) Original: A user with 10 messages and 5 likes will have a ratio of 0.5. -->
+  <phrase title="like_counts" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Antal gillanden]]></phrase> <!-- (C) Original: Like counts -->
+  <phrase title="like_message_ratio_explanation" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[En användare med 10 inlägg och 5 gillanden kommer att ha ett förhållande på 0,5.]]></phrase> <!-- (C) Original: A user with 10 messages and 5 likes will have a ratio of 0.5. -->
   <phrase title="likes" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Gillar]]></phrase> <!-- (C) Original: Likes -->
   <phrase title="likes.1_person" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[1 person]]></phrase> <!-- (C) Original: 1 person -->
   <phrase title="likes.deleted_user" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[(borttagen medlem)]]></phrase> <!-- (C) Original: (deleted member) -->
@@ -2107,15 +2107,15 @@ The XML file will be placed into your 'internal-data' folder, using the file nam
   <phrase title="likes.user1_user2_and_user3" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{user1}, {user2} och {user3}]]></phrase> <!-- (C) Original: {user1}, {user2} and {user3} -->
   <phrase title="likes.user1_user2_user3_and_1_other" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{user1}, {user2}, {user3} och 1 annan person]]></phrase> <!-- (C) Original: {user1}, {user2}, {user3} and 1 other person -->
   <phrase title="likes.user1_user2_user3_and_x_others" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{user1}, {user2}, {user3} och {others} andra]]></phrase> <!-- (C) Original: {user1}, {user2}, {user3} and {others} others -->
-  <phrase title="likes.x_people" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{likes} människor]]></phrase> <!-- (C) Original: {likes} people -->
-  <phrase title="likes.you" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Du]]></phrase> <!-- (C) Original: You -->
+  <phrase title="likes.x_people" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{likes} medlemmar]]></phrase> <!-- (C) Original: {likes} people -->
+  <phrase title="likes.you" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Dig]]></phrase> <!-- (C) Original: You -->
   <phrase title="likes.you_and_user1" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Du och {user1}]]></phrase> <!-- (C) Original: You and {user1} -->
   <phrase title="likes.you_user1_and_user2" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Du, {user1} och {user2}]]></phrase> <!-- (C) Original: You, {user1} and {user2} -->
   <phrase title="likes.you_user1_user2_and_1_other" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Du, {user1}, {user2} och 1 annan person]]></phrase> <!-- (C) Original: You, {user1}, {user2} and 1 other person -->
   <phrase title="likes.you_user1_user2_and_x_others" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Du, {user1}, {user2} och {others} andra]]></phrase> <!-- (C) Original: You, {user1}, {user2} and {others} others -->
-  <phrase title="likes_counted_status" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Gillar räknad status]]></phrase> <!-- (C) Original: Likes counted status -->
-  <phrase title="likes_received" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Gillar mottagna]]></phrase> <!-- (C) Original: Likes received -->
-  <phrase title="liking_own_content_cheating" addon_id="XF" version_id="0" version_string=""><![CDATA[Att tycka om ditt eget innehåll anses vara fusk.]]></phrase> <!-- (C) Original: Liking your own content is considered cheating. -->
+  <phrase title="likes_counted_status" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Gillanden räknade-status]]></phrase> <!-- (C) Original: Likes counted status -->
+  <phrase title="likes_received" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Gillad antal gånger]]></phrase> <!-- (C) Original: Likes received -->
+  <phrase title="liking_own_content_cheating" addon_id="XF" version_id="0" version_string=""><![CDATA[Att gilla sitt eget innehåll anses vara fusk.]]></phrase> <!-- (C) Original: Liking your own content is considered cheating. -->
   <phrase title="limit_to_imported_users_logged_in_this_table" addon_id="XF" version_id="2000270" version_string="2.0.2"><![CDATA[Begränsa till importerade användare som är inloggade i den här tabellen]]></phrase> <!-- (C) Original: Limit to imported users logged in this table -->
   <phrase title="limit_to_users_who_have_posted" addon_id="XF" version_id="2000270" version_string="2.0.2"><![CDATA[Begränsa till användare som har postat]]></phrase> <!-- (C) Original: Limit to users who have posted -->
   <phrase title="line_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Linje {line}]]></phrase> <!-- (C) Original: Line {line} -->
@@ -2177,11 +2177,11 @@ The XML file will be placed into your 'internal-data' folder, using the file nam
   <phrase title="manually_approve" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Godkänn manuellt]]></phrase> <!-- (C) Original: Manually approve -->
   <phrase title="manually_promote_user" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Manuellt främja användaren]]></phrase> <!-- (C) Original: Manually promote user -->
   <phrase title="manually_upgrade_user" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Uppgradera användaren manuellt]]></phrase> <!-- (C) Original: Manually upgrade user -->
-  <phrase title="mark_conversations_read" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Markera samtal läs]]></phrase> <!-- (C) Original: Mark conversations read -->
+  <phrase title="mark_conversations_read" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Markera samtal lästa]]></phrase> <!-- (C) Original: Mark conversations read -->
   <phrase title="mark_conversations_unread" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Markera konversationer olästa]]></phrase> <!-- (C) Original: Mark conversations unread -->
-  <phrase title="mark_forum_read" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Markera forum läs]]></phrase> <!-- (C) Original: Mark forum read -->
-  <phrase title="mark_forums_read" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Markforum läser]]></phrase> <!-- (C) Original: Mark forums read -->
-  <phrase title="mark_read" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Markera läs]]></phrase> <!-- (C) Original: Mark read -->
+  <phrase title="mark_forum_read" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Markera forumet läst]]></phrase> <!-- (C) Original: Mark forum read -->
+  <phrase title="mark_forums_read" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Markera forum lästa]]></phrase> <!-- (C) Original: Mark forums read -->
+  <phrase title="mark_read" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Markera läst]]></phrase> <!-- (C) Original: Mark read -->
   <phrase title="mark_unread" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Markera som oläst]]></phrase> <!-- (C) Original: Mark unread -->
   <phrase title="master_language" addon_id="XF" global_cache="1" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Masterspråk]]></phrase> <!-- (C) Original: Master language -->
   <phrase title="master_style" addon_id="XF" global_cache="1" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Master stil]]></phrase> <!-- (C) Original: Master style -->
@@ -2446,16 +2446,16 @@ The callback should either return an array or nothing at all. If nothing is retu
   <phrase title="nav.currentVisitors" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Aktuella besökare]]></phrase> <!-- (C) Original: Current visitors -->
   <phrase title="nav.defaultLatestActivity" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Senaste aktivitet]]></phrase> <!-- (C) Original: Latest activity -->
   <phrase title="nav.defaultLogOut" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Logga ut]]></phrase> <!-- (C) Original: Log out -->
-  <phrase title="nav.defaultNewsFeed" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Din nyhetsflöde]]></phrase> <!-- (C) Original: Your news feed -->
+  <phrase title="nav.defaultNewsFeed" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ditt nyhetsflöde]]></phrase> <!-- (C) Original: Your news feed -->
   <phrase title="nav.defaultRegister" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Registrera]]></phrase> <!-- (C) Original: Register -->
   <phrase title="nav.defaultYourAccount" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ditt konto]]></phrase> <!-- (C) Original: Your account -->
   <phrase title="nav.defaultYourProfile" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Din profil]]></phrase> <!-- (C) Original: Your profile -->
   <phrase title="nav.findThreads" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Hitta trådar]]></phrase> <!-- (C) Original: Find threads -->
-  <phrase title="nav.forumList" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Forum lista]]></phrase> <!-- (C) Original: Forum list -->
+  <phrase title="nav.forumList" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Forumlista]]></phrase> <!-- (C) Original: Forum list -->
   <phrase title="nav.forums" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Forum]]></phrase> <!-- (C) Original: Forums -->
   <phrase title="nav.home" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Hem]]></phrase> <!-- (C) Original: Home -->
   <phrase title="nav.latestActivity" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Senaste aktivitet]]></phrase> <!-- (C) Original: Latest activity -->
-  <phrase title="nav.markForumsRead" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Markforum läser]]></phrase> <!-- (C) Original: Mark forums read -->
+  <phrase title="nav.markForumsRead" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Markera alla forum lästa]]></phrase> <!-- (C) Original: Mark forums read -->
   <phrase title="nav.members" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Medlemmar]]></phrase> <!-- (C) Original: Members -->
   <phrase title="nav.newPosts" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Nya inlägg]]></phrase> <!-- (C) Original: New posts -->
   <phrase title="nav.newProfilePosts" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Nya profilinlägg]]></phrase> <!-- (C) Original: New profile posts -->
@@ -2608,7 +2608,7 @@ The callback should either return an array or nothing at all. If nothing is retu
   <phrase title="not_notified_of_responses_conversation_remain_deleted" addon_id="XF" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Du kommer inte att bli underrättad om framtida svar och samtalet kommer att förbli raderat.]]></phrase> <!-- (C) Original: You will not be notified of any future responses and the conversation will remain deleted. -->
   <phrase title="not_open_for_further_replies" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Ej öppen för ytterligare svar.]]></phrase> <!-- (C) Original: Not open for further replies. -->
   <phrase title="not_staff_member" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Inte anställd]]></phrase> <!-- (C) Original: Not staff member -->
-  <phrase title="not_sticky" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Inte klibbig]]></phrase> <!-- (C) Original: Not sticky -->
+  <phrase title="not_sticky" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Inte klistrad]]></phrase> <!-- (C) Original: Not sticky -->
   <phrase title="notable_members" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Anmärkningsvärda medlemmar]]></phrase> <!-- (C) Original: Notable members -->
   <phrase title="note" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Notera]]></phrase> <!-- (C) Original: Note -->
   <phrase title="note_deleting_payment_profiles_will_not_affect_any_existing_purchases" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Obs! Att ta bort betalningsprofiler påverkar inte några befintliga inköp (eller prenumerationer) som har gjorts med den här profilen.]]></phrase> <!-- (C) Original: Note: Deleting payment profiles will not affect any existing purchases (or subscriptions) that have been made using this profile. -->
@@ -3579,7 +3579,7 @@ Callback arguments:
   <phrase title="post_poll" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Skriv en omröstning]]></phrase> <!-- (C) Original: Post a poll -->
   <phrase title="post_public_warning" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Lägg in en allmän varning]]></phrase> <!-- (C) Original: Post a public warning -->
   <phrase title="post_reply" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Skicka svar]]></phrase> <!-- (C) Original: Post reply -->
-  <phrase title="post_thread" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Inläggstråd]]></phrase> <!-- (C) Original: Post thread -->
+  <phrase title="post_thread" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Starta ny tråd]]></phrase> <!-- (C) Original: Post thread -->
   <phrase title="post_thread_in" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lägg in tråd i ...]]></phrase> <!-- (C) Original: Post thread in... -->
   <phrase title="post_verb" addon_id="XF" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[Posta]]></phrase> <!-- (C) Original: Post -->
   <phrase title="post_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Inlägg # {position}]]></phrase> <!-- (C) Original: Post #{position} -->
@@ -3588,7 +3588,7 @@ Callback arguments:
   <phrase title="posted_on_profile_post_by_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Upplagt på profilpost genom <a href="{commentLink}"> {user} </a>]]></phrase> <!-- (C) Original: Posted on profile post by <a href="{commentLink}">{user}</a> -->
   <phrase title="posted_on_profile_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Publicerad på profil <a href="{profilePostLink}"> {user} </a>]]></phrase> <!-- (C) Original: Posted on profile <a href="{profilePostLink}">{user}</a> -->
   <phrase title="posted_on_the_profile_of_member" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Upplagt på medlemmens profil]]></phrase> <!-- (C) Original: Posted on the profile of member -->
-  <phrase title="posting_user" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Postar användaren]]></phrase> <!-- (C) Original: Posting user -->
+  <phrase title="posting_user" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Postande användare]]></phrase> <!-- (C) Original: Posting user -->
   <phrase title="postings" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Inlägg]]></phrase> <!-- (C) Original: Postings -->
   <phrase title="posts" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Inlägg]]></phrase> <!-- (C) Original: Posts -->
   <phrase title="preferences" addon_id="XF" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Inställningar]]></phrase> <!-- (C) Original: Preferences -->
@@ -3613,7 +3613,7 @@ Callback arguments:
   <phrase title="privacy_policy" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Integritetspolicy]]></phrase> <!-- (M) Original: Privacy policy | Computer: Integritetspolicy -->
   <phrase title="privacy_policy_text" addon_id="XF" version_id="2000632" version_string="2.0.6 Beta 2"><![CDATA[<p> Vi är {board_title} ("vi", "vår", "oss"). Vi är engagerade i att skydda och respektera din integritet. Om du har frågor om din personliga information, vänligen <a href="{contactUrl}"> kontakta oss </a>.</p>
 
-<h2> Vilken information vi har om dig</h2>
+<h2>Vilken information vi har om dig</h2>
 <p> Den typ av data som vi samlar in och bearbetar omfattar:</p>
 <Ul>
 <li> Ditt namn eller användarnamn.</li>
@@ -3629,7 +3629,7 @@ Callback arguments:
 <li> Du fyller i fält i din profil.</li>
 </ul>
 
-<h2> Hur används din personliga information</h2>
+<h2>Hur används din personliga information</h2>
 <p> Vi kan använda din personliga information på följande sätt:</p>
 <Ul>
 <li> För att göra dig en registrerad medlem på vår webbplats, så att du kan bidra med innehåll till den här webbplatsen.</li>
@@ -3637,25 +3637,25 @@ Callback arguments:
 <li> Din IP-adress registreras när du utför vissa åtgärder på vår webbplats. Din IP-adress är aldrig offentligt synlig.</li>
 </ul>
 
-<h2> Andra sätt kan vi använda din personliga information.</h2>
+<h2>Andra sätt som vi kan komma att använda din personliga information på</h2>
 <p> Förutom att anmäla dig till aktiviteter på vår webbplats som kan vara relevant för dig, kan vi eventuellt vilja kommunicera med alla medlemmar med viktig information, t.ex. nyhetsbrev eller meddelanden via e-post. Du kan välja bort eller ta bort sådana e-postmeddelanden i din profil.</p>
-<p> Vi kan samla in personligt identifierbar information om dig i samband med din interaktion med vår webbplats. Denna information kan innehålla teknisk information om webbläsaren eller typen av enhet du använder. Denna information kommer endast att användas för analys och spårning av antalet besökare på vår webbplats.</p>
+<p> Vi kan även komma att samla in personligt identifierbar information om dig i samband med din interaktion med vår webbplats. Denna information kan innehålla teknisk information om webbläsaren eller typen av enhet du använder. Denna information kommer endast att användas för analys och spårning av antalet besökare på vår webbplats.</p>
 
-<h2> Håller dina data säkra</h2>
+<h2>Håller dina data säkra</h2>
 <p> Vi är fast beslutna att se till att all information du lämnar oss är säker. För att förhindra obehörig åtkomst eller avslöjande har vi infört lämpliga åtgärder och förfaranden för att skydda och säkra den information vi samlar in.</p>
 
-<h2> Cookies policy</h2>
+<h2>Cookies policy</h2>
 <p> Kakor är små textfiler som är inställda av oss på din dator, vilket gör det möjligt för oss att tillhandahålla viss funktionalitet på vår webbplats, till exempel att kunna logga in eller komma ihåg vissa inställningar.</p>
 <p> Vi har en detaljerad cookiepolicy och mer information om de cookies vi ställt in på <a href="{cookieHelp}"> den här sidan </a>.</p>
 
-<H2> rättigheter</h2>
-<p> Du har rätt att få tillgång till de personuppgifter vi håller om dig eller få en kopia av den. För att göra så snälla <a href="{contactUrl}"> kontakta oss </a>. Om du tror att informationen vi håller för dig är ofullständig eller felaktig, kan du <a href="{contactUrl}"> kontakta oss </a> för att fråga oss att slutföra eller korrigera den informationen.</p>
+<h2>Rättigheter</h2>
+<p> Du har rätt att få tillgång till de personuppgifter vi håller om dig eller få en kopia av den. För att få det, var god <a href="{contactUrl}"> kontakta oss </a>. Om du tror att informationen vi har om dig är ofullständig eller felaktig, kan du <a href="{contactUrl}"> kontakta oss </a> för att komplettera eller korrigera den.</p>
 <p> Du har också rätt att begära radering av dina personuppgifter. Snälla <a href="{contactUrl}"> kontakta oss </a> om du vill att vi ska ta bort dina personuppgifter.</p>
 
-<h2> Samtycke till integritetspolicyn</h2>
+<h2>Samtycke till integritetspolicyn</h2>
 <p> Fortsatt användning av vår webbplats innebär att du samtycker till denna policy. Om du inte samtycker till policyn ska du inte använda den här sidan. När du registrerar kommer vi ytterligare att begära ditt uttryckliga godkännande av integritetspolicyn.</p>
 
-<h2> Ändringar av denna policy</h2>
+<h2>Ändringar av denna policy</h2>
 <p> Vi kan när som helst göra ändringar i denna policy. Du kan bli ombedd att granska och samtycka till informationen i denna policy om den ändras i framtiden.</p>]]></phrase>
   <phrase title="private" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Privat]]></phrase> <!-- (C) Original: Private -->
   <phrase title="private_category" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Privat kategori]]></phrase> <!-- (C) Original: Private category -->
@@ -3824,34 +3824,34 @@ Callback arguments:
   <phrase title="replacement_mode" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Byt läge]]></phrase> <!-- (C) Original: Replacement mode -->
   <phrase title="replacement_optional" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Ersättning (tillval)]]></phrase> <!-- (C) Original: Replacement (optional) -->
   <phrase title="replies" addon_id="XF" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Svar]]></phrase> <!-- (C) Original: Replies -->
-  <phrase title="reply" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Svar]]></phrase> <!-- (C) Original: Reply -->
-  <phrase title="reply_count_between" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Svara räkna mellan]]></phrase> <!-- (C) Original: Reply count between -->
+  <phrase title="reply" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Svara]]></phrase> <!-- (C) Original: Reply -->
+  <phrase title="reply_count_between" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Antal svar mellan]]></phrase> <!-- (C) Original: Reply count between -->
   <phrase title="reply_placeholder" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Skriv ditt svar ...]]></phrase> <!-- (C) Original: Write your reply... -->
   <phrase title="reply_quoting_this_message" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Svara, citera detta meddelande]]></phrase> <!-- (C) Original: Reply, quoting this message -->
-  <phrase title="reply_to_conversation" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Svara samtal]]></phrase> <!-- (C) Original: Reply to conversation -->
+  <phrase title="reply_to_conversation" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Svara i konversationen]]></phrase> <!-- (C) Original: Reply to conversation -->
   <phrase title="reply_to_thread" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Svara på tråd]]></phrase> <!-- (C) Original: Reply to thread -->
-  <phrase title="reply_to_watched_thread_x" addon_id="XF" version_id="1010033" version_string="1.1.0 Beta 3"><![CDATA[{title} - Nytt svar på tittat tråd]]></phrase> <!-- (C) Original: {title} - New reply to watched thread -->
-  <phrase title="report" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Rapportera]]></phrase> <!-- (C) Original: Report -->
-  <phrase title="report_content" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Rapportera innehåll]]></phrase> <!-- (C) Original: Report content -->
-  <phrase title="report_reason" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Anmäl rapport]]></phrase> <!-- (C) Original: Report reason -->
-  <phrase title="report_resolution_alert_comment_append" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[[I]The following alert was sent:[/I]
+  <phrase title="reply_to_watched_thread_x" addon_id="XF" version_id="1010033" version_string="1.1.0 Beta 3"><![CDATA[{title} - Nytt svar på bevakad tråd]]></phrase> <!-- (C) Original: {title} - New reply to watched thread -->
+  <phrase title="report" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Anmäl]]></phrase> <!-- (C) Original: Report -->
+  <phrase title="report_content" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Anmäl innehåll]]></phrase> <!-- (C) Original: Report content -->
+  <phrase title="report_reason" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Orsak till anmälan]]></phrase> <!-- (C) Original: Report reason -->
+  <phrase title="report_resolution_alert_comment_append" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[[I]Följande anmälan har skickats in:[/I]
 [QUOTE][PLAIN]{alert}[/PLAIN][/QUOTE]]]></phrase>
   <phrase title="report_state.assigned" addon_id="XF" version_id="2000038" version_string="2.0.0 Beta 8"><![CDATA[Tilldelad delad~~POS=HEADCOMP]]></phrase> <!-- (C) Original: Assigned -->
   <phrase title="report_state.open" addon_id="XF" version_id="2000038" version_string="2.0.0 Beta 8"><![CDATA[Öppen]]></phrase> <!-- (C) Original: Open -->
-  <phrase title="report_state.rejected" addon_id="XF" version_id="2000038" version_string="2.0.0 Beta 8"><![CDATA[Avvisade]]></phrase> <!-- (C) Original: Rejected -->
+  <phrase title="report_state.rejected" addon_id="XF" version_id="2000038" version_string="2.0.0 Beta 8"><![CDATA[Avvisad]]></phrase> <!-- (C) Original: Rejected -->
   <phrase title="report_state.resolved" addon_id="XF" version_id="2000038" version_string="2.0.0 Beta 8"><![CDATA[Löst]]></phrase> <!-- (C) Original: Resolved -->
-  <phrase title="report_that_you_made_recently_has_been_resolved" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Din senaste rapport har blivit löst: {title}]]></phrase> <!-- (C) Original: Your recent report has been resolved: {title} -->
-  <phrase title="report_that_you_made_recently_has_been_resolved_comment_x" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Din senaste rapport har lösts: {title} - {comment}]]></phrase> <!-- (C) Original: Your recent report has been resolved: {title} - {comment} -->
-  <phrase title="reported_content" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Rapporterat innehåll]]></phrase> <!-- (C) Original: Reported content -->
-  <phrase title="reported_items" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Rapporterade poster]]></phrase> <!-- (C) Original: Reported items -->
-  <phrase title="reported_thread_message" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[[url='{link}']{title}[/url] by [url='{userLink}']{username}[/url] has been reported by [url='{reporterLink}']{reporter}[/url]. Reason given:
+  <phrase title="report_that_you_made_recently_has_been_resolved" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Din senaste anmälan har blivit löst: {title}]]></phrase> <!-- (C) Original: Your recent report has been resolved: {title} -->
+  <phrase title="report_that_you_made_recently_has_been_resolved_comment_x" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Din senaste anmälan har lösts: {title} - {comment}]]></phrase> <!-- (C) Original: Your recent report has been resolved: {title} - {comment} -->
+  <phrase title="reported_content" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Anmält innehåll]]></phrase> <!-- (C) Original: Reported content -->
+  <phrase title="reported_items" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Anmälda poster]]></phrase> <!-- (C) Original: Reported items -->
+  <phrase title="reported_thread_message" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[[url='{link}']{title}[/url] by [url='{userLink}']{username}[/url] har anmälts av [url='{reporterLink}']{reporter}[/url]. Orsak till anmälan:
 [quote]{reportReason}[/quote]
 
-Content being reported:
+Anmält innehåll:
 [quote]{message}[/quote]
 {extraDetails}]]></phrase>
-  <phrase title="reported_thread_title" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Rapporterat innehåll: {title}]]></phrase> <!-- (C) Original: Reported content: {title} -->
-  <phrase title="reports" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Rapporter]]></phrase> <!-- (C) Original: Reports -->
+  <phrase title="reported_thread_title" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Anmält innehåll: {title}]]></phrase> <!-- (C) Original: Reported content: {title} -->
+  <phrase title="reports" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Anmälningar]]></phrase> <!-- (C) Original: Reports -->
   <phrase title="represents_portion_of_url_after_help_part_identify_page" addon_id="XF" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[Detta representerar delen av webbadressen efter delen <i> help / </ i> som identifierar denna sida unikt. Du får bara använda a-z, 0-9, _ och - tecken.]]></phrase> <!-- (C) Original: This represents the portion of the URL after the <i>help/</i> part that identifies this page uniquely. You may use a-z, 0-9, _ and - characters only. -->
   <phrase title="request_password" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Begär lösenord]]></phrase> <!-- (C) Original: Request password -->
   <phrase title="request_password_be_emailed_to_you" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Be om ett lösenord skickas till dig]]></phrase> <!-- (C) Original: Request a password be emailed to you -->
@@ -4189,8 +4189,8 @@ Content being reported:
   <phrase title="step_x_of_y" addon_id="XF" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[Steg {current} av {total}]]></phrase> <!-- (C) Original: Step {current} of {total} -->
   <phrase title="stick_thread" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Stickgänga]]></phrase> <!-- (C) Original: Stick thread -->
   <phrase title="stick_threads" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Stick trådar]]></phrase> <!-- (C) Original: Stick threads -->
-  <phrase title="sticky" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Klibbig]]></phrase> <!-- (C) Original: Sticky -->
-  <phrase title="sticky_threads_appear_at_top_of_first_page_of_list_of_threads" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Klibbiga trådar visas längst upp på första sidan i listan över trådar i sitt moderforum]]></phrase> <!-- (C) Original: Sticky threads appear at the top of the first page of the list of threads in their parent forum -->
+  <phrase title="sticky" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Klistrad]]></phrase> <!-- (C) Original: Sticky -->
+  <phrase title="sticky_threads_appear_at_top_of_first_page_of_list_of_threads" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Klistrade trådar visas längst upp på första sidan i listan över trådar i sitt moderforum]]></phrase> <!-- (C) Original: Sticky threads appear at the top of the first page of the list of threads in their parent forum -->
   <phrase title="stop_all_emails" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Stoppa alla e-postmeddelanden]]></phrase> <!-- (C) Original: Stop all emails -->
   <phrase title="stop_all_emails_from_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Stoppa alla e-postmeddelanden från {title}]]></phrase> <!-- (C) Original: Stop all emails from {title} -->
   <phrase title="stop_conversation_emails" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Stoppa samtal e-postmeddelanden]]></phrase> <!-- (C) Original: Stop conversation emails -->
@@ -4421,7 +4421,7 @@ You will also need to set up a webhook endpoint in your Stripe account with the 
   <phrase title="style_prop.publicNavPaddingH" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Navigation padding horisontellt]]></phrase> <!-- (C) Original: Navigation padding horizontal -->
   <phrase title="style_prop.publicNavPaddingV" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Navigation padding vertikal]]></phrase> <!-- (C) Original: Navigation padding vertical -->
   <phrase title="style_prop.publicNavSelected" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Navigationsrad - vald flik]]></phrase> <!-- (C) Original: Navigation row - selected tab -->
-  <phrase title="style_prop.publicNavSticky" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Klibbigt navigationselement]]></phrase> <!-- (C) Original: Sticky navigation element -->
+  <phrase title="style_prop.publicNavSticky" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Klistrat navigationselement]]></phrase> <!-- (C) Original: Sticky navigation element -->
   <phrase title="style_prop.publicNavTab" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Navigationsrad - flik]]></phrase> <!-- (C) Original: Navigation row - tab -->
   <phrase title="style_prop.publicNavTabHover" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Navigationsraden - svepad flik]]></phrase> <!-- (C) Original: Navigation row - hovered tab -->
   <phrase title="style_prop.publicNavTabMenuOpen" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Navigationsrad - menyn öppen]]></phrase> <!-- (C) Original: Navigation row - menu open -->
@@ -4870,7 +4870,7 @@ When the payment has been approved, your account will be upgraded.]]></phrase>
 <br />
 Error message: <span class="exceptionMessage">{message}</span>]]></phrase>
   <phrase title="there_x_missing_files_or_files_with_unexpected_contents" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Det finns {total_missing} saknade filer eller filer med oväntat innehåll. Du bör granska dessa.]]></phrase> <!-- (C) Original: There are {total_missing} missing files or files with unexpected contents. You should review these. -->
-  <phrase title="these_filters_will_be_used_by_default_whenever_you_return" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Dessa filter kommer att användas som standard när du kommer tillbaka.]]></phrase> <!-- (C) Original: These filters will be used by default whenever you return. -->
+  <phrase title="these_filters_will_be_used_by_default_whenever_you_return" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Dessa filter kommer att användas som förvalda när du kommer tillbaka.]]></phrase> <!-- (C) Original: These filters will be used by default whenever you return. -->
   <phrase title="these_limits_only_apply_when_tag_is_created_existing_used" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Dessa gränser gäller endast när en tagg skapas. Befintliga taggar kan alltid användas.]]></phrase> <!-- (C) Original: These limits only apply when a tag is created. Existing tags may always be used. -->
   <phrase title="this_account_cannot_be_confirmed_without_email_address" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Det här kontot kan inte bekräftas utan en e-postadress.]]></phrase> <!-- (C) Original: This account cannot be confirmed without an email address. -->
   <phrase title="this_account_is_already_associated_with_another_member" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Det här kontot är redan kopplat till en annan medlem. Denna förening kan bara ändras från det kontot.]]></phrase> <!-- (C) Original: This account is already associated with another member. This association can only be changed from within that account. -->
@@ -4972,7 +4972,7 @@ By continuing to use this site, you are consenting to our use of cookies.]]></ph
   <phrase title="thread_lists" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Trådlistor]]></phrase> <!-- (C) Original: Thread lists -->
   <phrase title="thread_polls" addon_id="XF" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[Trådundersökningar]]></phrase> <!-- (C) Original: Thread polls -->
   <phrase title="thread_prefixes" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Trådprefix]]></phrase> <!-- (C) Original: Thread prefixes -->
-  <phrase title="thread_prompt.default" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tråd titel]]></phrase> <!-- (C) Original: Thread title -->
+  <phrase title="thread_prompt.default" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ange en beskrivande titel på den nya tråden]]></phrase> <!-- (C) Original: Thread title -->
   <phrase title="thread_prompts" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tråd frågar]]></phrase> <!-- (C) Original: Thread prompts -->
   <phrase title="thread_reply_bans" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tråd svarförbud]]></phrase> <!-- (C) Original: Thread reply bans -->
   <phrase title="thread_starter" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Tråd startare]]></phrase> <!-- (C) Original: Thread starter -->
@@ -5014,20 +5014,20 @@ By continuing to use this site, you are consenting to our use of cookies.]]></ph
   <phrase title="to_avoid_unexpected_user_merges_ensure_current_user_unique_name_email" addon_id="XF" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[För att undvika oväntade sammanslagningar av användare, se till att din <a href="{link}" target="_blank"> nuvarande användare </a> använder ett användarnamn och e-post som inte används av någon användare i källdatabasen !]]></phrase> <!-- (C) Original: In order to avoid unexpected user merges, please ensure your <a href="{link}" target="_blank">current user</a> is using a user name and email that is not used by any users in the source database! -->
   <phrase title="to_confirm_your_identity_we_have_sent_email_to_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[För att bekräfta din identitet har vi skickat ett mail till {email} och uppmanar dig att skapa ett lösenord. När du har följt den länken anger du ditt nya lösenord nedan.]]></phrase> <!-- (C) Original: To confirm your identity, we have sent an email to {email} inviting you to create a password. Once you have followed that link, please enter your new password below. -->
   <phrase title="to_load_prefixes_dynamically_you_must_also_provide_listen_to_attribute" addon_id="XF" version_id="2000034" version_string="2.0.0 Beta 4"><![CDATA[För att ladda prefix dynamiskt måste du också tillhandahålla ett "lyssna" -attribut som innehåller valet av ett element för att lyssna på för ändringar.]]></phrase> <!-- (C) Original: To load prefixes dynamically you must also provide a "listen-to" attribute containing the selector of an element to listen to for changes. -->
-  <phrase title="today_at_x" addon_id="XF" global_cache="1" version_id="0" version_string=""><![CDATA[Idag vid {time}]]></phrase> <!-- (C) Original: Today at {time} -->
+  <phrase title="today_at_x" addon_id="XF" global_cache="1" version_id="0" version_string=""><![CDATA[Idag kl {time}]]></phrase> <!-- (C) Original: Today at {time} -->
   <phrase title="toggle_bb_code" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Byt BB-kod]]></phrase> <!-- (C) Original: Toggle BB code -->
   <phrase title="toggle_expanded" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Växla utökad]]></phrase> <!-- (C) Original: Toggle expanded -->
   <phrase title="toggle_multi_quote_tooltip" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Byt multikvit]]></phrase> <!-- (C) Original: Toggle multi-quote -->
-  <phrase title="tomorrow_at_x" addon_id="XF" global_cache="1" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[I morgon vid {time}]]></phrase> <!-- (C) Original: Tomorrow at {time} -->
+  <phrase title="tomorrow_at_x" addon_id="XF" global_cache="1" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[I morgon kl {time}]]></phrase> <!-- (C) Original: Tomorrow at {time} -->
   <phrase title="too_many_poll_responses_have_been_entered" addon_id="XF" version_id="0" version_string=""><![CDATA[För många enkäter har skrivits in. Ta bort några.]]></phrase> <!-- (C) Original: Too many poll responses have been entered. Please remove some. -->
-  <phrase title="too_many_soft_bounces" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[För många mjuka studsar]]></phrase> <!-- (C) Original: Too many soft bounces -->
+  <phrase title="too_many_soft_bounces" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[För många "soft bounces"]]></phrase> <!-- (C) Original: Too many soft bounces -->
   <phrase title="tool_helps_diagnose_errors_relating_to_image_proxy_system" addon_id="XF" version_id="1030033" version_string="1.3.0 Beta 3"><![CDATA[Det här verktyget hjälper till att diagnostisera fel som är relaterade till bildproxysystemet genom att ge mer detaljerad information än vad som kan ges när en bild visas.]]></phrase> <!-- (C) Original: This tool helps diagnose errors relating to the image proxy system by giving more detailed information than can be given when displaying an image. -->
   <phrase title="tooltip" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tooltip]]></phrase> <!-- (C) Original: Tooltip -->
   <phrase title="top" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Topp]]></phrase> <!-- (C) Original: Top -->
   <phrase title="total" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Total]]></phrase> <!-- (C) Original: Total -->
   <phrase title="total_checked" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Totalt kontrollerat]]></phrase> <!-- (C) Original: Total checked -->
   <phrase title="total_files" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Totalt antal filer]]></phrase> <!-- (C) Original: Total files -->
-  <phrase title="total_likes" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Totalt gillar]]></phrase> <!-- (C) Original: Total likes -->
+  <phrase title="total_likes" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Totalt gillanden]]></phrase> <!-- (C) Original: Total likes -->
   <phrase title="total_messages" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Totalt antal meddelanden]]></phrase> <!-- (C) Original: Total messages -->
   <phrase title="total_points" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Total poäng]]></phrase> <!-- (C) Original: Total points -->
   <phrase title="total_queries" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Frågor]]></phrase> <!-- (C) Original: Queries -->
@@ -5128,7 +5128,7 @@ Without this, recurring subscriptions can only be cancelled from your <a href="h
   <phrase title="units_minutes" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Minuter]]></phrase> <!-- (C) Original: Minutes -->
   <phrase title="units_pixels" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Pixlar]]></phrase> <!-- (C) Original: Pixels -->
   <phrase title="units_seconds" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sekunder]]></phrase> <!-- (C) Original: Seconds -->
-  <phrase title="units_years" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[år]]></phrase> <!-- (C) Original: Years -->
+  <phrase title="units_years" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[År]]></phrase> <!-- (C) Original: Years -->
   <phrase title="unknown" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Okänd]]></phrase> <!-- (C) Original: Unknown -->
   <phrase title="unknown_account" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Okänt konto]]></phrase> <!-- (C) Original: Unknown account -->
   <phrase title="unknown_action" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Okänd åtgärd]]></phrase> <!-- (C) Original: Unknown action -->
@@ -5137,11 +5137,11 @@ Without this, recurring subscriptions can only be cancelled from your <a href="h
   <phrase title="unknown_payment_profile" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Okänd betalningsprofil]]></phrase> <!-- (C) Original: Unknown payment profile -->
   <phrase title="unknown_position_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Okänd position "{position}". Stödda värden är "sidebar" och "sidenav".]]></phrase> <!-- (C) Original: Unknown position '{position}'. Supported values are 'sidebar' and 'sidenav'. -->
   <phrase title="unknown_profile" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Okänd profil]]></phrase> <!-- (C) Original: Unknown profile -->
-  <phrase title="unknown_purchasable" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Okänd inköp]]></phrase> <!-- (C) Original: Unknown purchasable -->
-  <phrase title="unknown_tag_x_encountered" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Okänd tagg {name} stött på.]]></phrase> <!-- (C) Original: Unknown tag {name} encountered. -->
+  <phrase title="unknown_purchasable" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Okänt inköp]]></phrase> <!-- (C) Original: Unknown purchasable -->
+  <phrase title="unknown_tag_x_encountered" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Okänd tagg {name} påträffad.]]></phrase> <!-- (C) Original: Unknown tag {name} encountered. -->
   <phrase title="unknown_user" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Okänd användare]]></phrase> <!-- (C) Original: Unknown user -->
-  <phrase title="unlike" addon_id="XF" version_id="0" version_string=""><![CDATA[Till skillnad från]]></phrase> <!-- (C) Original: Unlike -->
-  <phrase title="unlike_content" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Till skillnad från innehåll]]></phrase> <!-- (C) Original: Unlike content -->
+  <phrase title="unlike" addon_id="XF" version_id="0" version_string=""><![CDATA[Sluta gilla]]></phrase> <!-- (C) Original: Unlike -->
+  <phrase title="unlike_content" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sluta gilla innehåll]]></phrase> <!-- (C) Original: Unlike content -->
   <phrase title="unlimited" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Obegränsat]]></phrase> <!-- (C) Original: Unlimited -->
   <phrase title="unlink" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Ta bort länken]]></phrase> <!-- (C) Original: Unlink -->
   <phrase title="unlock_threads" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lås upp tråden]]></phrase> <!-- (C) Original: Unlock threads -->
@@ -5493,30 +5493,30 @@ Without this, recurring subscriptions can only be cancelled from your <a href="h
   <phrase title="warning_points" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Varningspunkter]]></phrase> <!-- (C) Original: Warning points -->
   <phrase title="warning_type" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Varningstyp]]></phrase> <!-- (C) Original: Warning type -->
   <phrase title="warnings" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Varningar]]></phrase> <!-- (C) Original: Warnings -->
-  <phrase title="watch" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kolla på]]></phrase> <!-- (C) Original: Watch -->
-  <phrase title="watch_category" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Titta på kategorin]]></phrase> <!-- (C) Original: Watch category -->
-  <phrase title="watch_content_on_creation" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Titta på innehållet vid skapandet]]></phrase> <!-- (C) Original: Watch content on creation -->
-  <phrase title="watch_content_on_interaction" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Titta på innehåll på interaktion]]></phrase> <!-- (C) Original: Watch content on interaction -->
-  <phrase title="watch_forum" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Titta på forumet]]></phrase> <!-- (C) Original: Watch forum -->
-  <phrase title="watch_this_thread" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Titta på den här tråden]]></phrase> <!-- (C) Original: Watch this thread -->
-  <phrase title="watch_thread" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Titta på tråden]]></phrase> <!-- (C) Original: Watch thread -->
-  <phrase title="watched_categories" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tittade på kategorier]]></phrase> <!-- (C) Original: Watched categories -->
-  <phrase title="watched_content" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tittade på innehållet]]></phrase> <!-- (C) Original: Watched content -->
-  <phrase title="watched_forum_email_html_footer" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[<p class="minorText">Please do not reply to this message. You must visit the forum to reply.</p>
+  <phrase title="watch" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bevaka]]></phrase> <!-- (C) Original: Watch -->
+  <phrase title="watch_category" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bevaka kategorin]]></phrase> <!-- (C) Original: Watch category -->
+  <phrase title="watch_content_on_creation" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bevaka innehållet vid skapandet]]></phrase> <!-- (C) Original: Watch content on creation -->
+  <phrase title="watch_content_on_interaction" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bevaka innehållet vid interaktion]]></phrase> <!-- (C) Original: Watch content on interaction -->
+  <phrase title="watch_forum" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bevaka forumet]]></phrase> <!-- (C) Original: Watch forum -->
+  <phrase title="watch_this_thread" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bevaka den här tråden]]></phrase> <!-- (C) Original: Watch this thread -->
+  <phrase title="watch_thread" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bevaka tråden]]></phrase> <!-- (C) Original: Watch thread -->
+  <phrase title="watched_categories" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bevakade kategorier]]></phrase> <!-- (C) Original: Watched categories -->
+  <phrase title="watched_content" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bevakat innehåll]]></phrase> <!-- (C) Original: Watched content -->
+  <phrase title="watched_forum_email_html_footer" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[<p class="minorText">Vänligen svara inte på detta meddelandet. Du måste besöka forumet för att svara.</p>
 
-<p class="minorText">This message was sent to you because you opted to watch the forum "{node_title}" at {board} with email notification of new threads or messages. You will not receive any further emails about this thread until you have read the new messages.</p>
+<p class = "minorText">Detta meddelande skickades till dig eftersom du har valt att bevaka forumet "{node_title}" på {board} och du har begärt att få e-postmeddelande om nya trådar och svar. Du kommer inte att få några ytterligare e-postmeddelanden om den detta tills du har läst de nya meddelandena på forumet.</p>
 
-<p class="minorText">If you no longer wish to receive these emails, you may <a href="{disable_this_link}">disable emails from this forum</a> or <a href="{disable_all_link}">disable all emails</a>.</p>]]></phrase>
+<p class = "minorText">Om du inte längre vill ha dessa e-postmeddelanden kan du välja att <a href="{disable_this_link}">inaktivera e-postmeddelanden från detta forum</a> alternativt <a href="{disable_all_link}">inaktivera e-postmeddelanden från samtliga forum du bevakar</a>.</p>]]></phrase>
   <phrase title="watched_forum_message_email_html" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[<p> {replier} postade ett nytt meddelande till ett forum du tittar på på {board}.</p>]]></phrase> <!-- (C) Original: <p>{replier} posted a new message to a forum you are watching at {board}.</p> -->
   <phrase title="watched_forum_thread_email_html" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[<p> {replier} postade en ny tråd till ett forum du tittar på på {board}.</p>]]></phrase> <!-- (C) Original: <p>{replier} posted a new thread to a forum you are watching at {board}.</p> -->
   <phrase title="watched_forums" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tittade på forum]]></phrase> <!-- (C) Original: Watched forums -->
-  <phrase title="watched_thread_email_html_footer" addon_id="XF" version_id="2000033" version_string="2.0.0 Beta 3"><![CDATA[<p class="minorText">Please do not reply to this message. You must visit the forum to reply.</p>
+  <phrase title="watched_thread_email_html_footer" addon_id="XF" version_id="2000033" version_string="2.0.0 Beta 3"><![CDATA[<p class="minorText">Vänligen svara inte på detta meddelandet. Du måste besöka forumet för att svara.</p>
 
-<p class="minorText">This message was sent to you because you opted to watch the thread {thread} at {board} with email notification of new replies. You will not receive any further emails about this thread until you have read the new messages.</p>
+<p class = "minorText">Detta meddelande skickades till dig eftersom du har valt att bevaka tråden {thread} på {board} och du har begärt att få e-postmeddelande om nya svar. Du kommer inte att få några ytterligare e-postmeddelanden om den här tråden tills du har läst de nya meddelandena på forumet.</p>
 
-<p class="minorText">If you no longer wish to receive these emails, you may <a href="{disable_this_link}">disable emails from this thread</a> or <a href="{disable_all_link}">disable all emails</a>.</p>]]></phrase>
-  <phrase title="watched_thread_reply_email_html" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[<p> {replier} svarade på en tråd som du tittar på på {board}.</p>]]></phrase> <!-- (C) Original: <p>{replier} replied to a thread you are watching at {board}.</p> -->
-  <phrase title="watched_threads" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tittade på tråden]]></phrase> <!-- (C) Original: Watched threads -->
+<p class = "minorText">Om du inte längre vill ha dessa e-postmeddelanden kan du välja att <a href="{disable_this_link}">inaktivera e-postmeddelanden från den här tråden</a> alternativt <a href="{disable_all_link}">inaktivera e-postmeddelanden från samtliga ämnen du bevakar</a>.</p>]]></phrase>
+  <phrase title="watched_thread_reply_email_html" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[<p> {replier} svarade på en tråd som du bevakar på {board}.</p>]]></phrase> <!-- (C) Original: <p>{replier} replied to a thread you are watching at {board}.</p> -->
+  <phrase title="watched_threads" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bevakade trådar]]></phrase> <!-- (C) Original: Watched threads -->
   <phrase title="we_found_some_errors_while_trying_to_install_following_add_on" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Vi hittade några fel när du försökte installera följande tillägg]]></phrase> <!-- (C) Original: We found some errors while trying to install the following add-on -->
   <phrase title="we_found_some_errors_while_trying_to_rebuild_following_add_on" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Vi hittade några fel när vi försökte bygga om följande tilläggs huvuddata]]></phrase> <!-- (C) Original: We found some errors while trying to rebuild the following add-on's master data -->
   <phrase title="we_found_some_errors_while_trying_to_upgrade_following_add_on" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Vi hittade några fel när vi försökte uppgradera följande tillägg]]></phrase> <!-- (C) Original: We found some errors while trying to upgrade the following add-on -->
@@ -5716,7 +5716,7 @@ Callback arguments:
   <phrase title="years" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[år]]></phrase> <!-- (C) Original: Years -->
   <phrase title="yes" addon_id="XF" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[Ja]]></phrase> <!-- (C) Original: Yes -->
   <phrase title="yes_with_email" addon_id="XF" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[Ja, med e-post]]></phrase> <!-- (C) Original: Yes, with email -->
-  <phrase title="yesterday_at_x" addon_id="XF" global_cache="1" version_id="0" version_string=""><![CDATA[Igår vid {time}]]></phrase> <!-- (C) Original: Yesterday at {time} -->
+  <phrase title="yesterday_at_x" addon_id="XF" global_cache="1" version_id="0" version_string=""><![CDATA[Igår kl {time}]]></phrase> <!-- (C) Original: Yesterday at {time} -->
   <phrase title="you_already_following_this_member" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Du följer redan den här medlemmen.]]></phrase> <!-- (C) Original: You are already following this member. -->
   <phrase title="you_already_ignoring_this_member" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Du ignorerar redan denna medlem.]]></phrase> <!-- (C) Original: You are already ignoring this member. -->
   <phrase title="you_already_logged_in" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Du är redan inloggad. Vänligen klicka <a href="{link}"> här </a> för att återgå till forumlistan.]]></phrase> <!-- (C) Original: You are already logged in. Please click <a href="{link}">here</a> to return to the forum list. -->
@@ -5738,9 +5738,9 @@ Callback arguments:
   <phrase title="you_have_been_banned" addon_id="XF" version_id="0" version_string=""><![CDATA[Du har förbjudits.]]></phrase> <!-- (C) Original: You have been banned. -->
   <phrase title="you_have_been_banned_for_following_reason_x" addon_id="XF" version_id="0" version_string=""><![CDATA[Du har blivit bannad av följande anledning: {reason}.]]></phrase> <!-- (C) Original: You have been banned for the following reason: {reason}. -->
   <phrase title="you_have_exceeded_allowed_number_of_recipients_x_for" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Du har överskridit det tillåtna antalet mottagare ({limit}) för det här meddelandet.]]></phrase> <!-- (C) Original: You have exceeded the allowed number of recipients ({limit}) for this message. -->
-  <phrase title="you_have_no_new_alerts" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Du har inga nya varningar.]]></phrase> <!-- (C) Original: You have no new alerts. -->
-  <phrase title="you_have_no_recent_conversations" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Du har inga nya samtal.]]></phrase> <!-- (C) Original: You have no recent conversations. -->
-  <phrase title="you_have_posted_x_messages_in_this_thread" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Du har skrivit {count} meddelande (er) i den här tråden]]></phrase> <!-- (C) Original: You have posted {count} message(s) in this thread -->
+  <phrase title="you_have_no_new_alerts" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Du har inga nya notiser.]]></phrase> <!-- (C) Original: You have no new alerts. -->
+  <phrase title="you_have_no_recent_conversations" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Du har inga nya konversationer.]]></phrase> <!-- (C) Original: You have no recent conversations. -->
+  <phrase title="you_have_posted_x_messages_in_this_thread" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Du har skrivit {count} meddelande(n) i den här tråden]]></phrase> <!-- (C) Original: You have posted {count} message(s) in this thread -->
   <phrase title="you_have_saved_draft_click_to_load" addon_id="XF" version_id="2000037" version_string="2.0.0 Beta 7"><![CDATA[Du har ett sparat utkast. Klicka här för att ladda det.]]></phrase> <!-- (C) Original: You have a saved draft. Click here to load it. -->
   <phrase title="you_may_also_use_phrase_title_which_will_be_replaced" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Du kan också använda {phrase:phrase_title} som ersätts med frasen text på mottagarens språk.]]></phrase> <!-- (C) Original: You may also use {phrase:phrase_title} which will be replaced with the phrase text in the recipient's language. -->
   <phrase title="you_may_click_on_update_to_edit_it" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Du kan klicka på en uppdatering för att redigera den.]]></phrase> <!-- (C) Original: You may click on an update to edit it. -->
