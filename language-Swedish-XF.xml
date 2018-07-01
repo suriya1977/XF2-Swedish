@@ -11,7 +11,7 @@
   <phrase title="2x_image_replacement_url" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[2x bild ersättnings-URL]]></phrase> <!-- (M) Original: 2x image replacement URL | Computer: 2x bildbytesadress -->
   <phrase title="2x_image_replacement_url_explain" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Om angivet så kommer 2x-bilden automatiskt att visas istället för bild-URL:en på enheter som har stöd för högre bildupplösning.<br />
 <br />
-<strong>Note: This option has no effect with sprite mode enabled.</strong>]]></phrase>
+<strong>Obs: Det här alternativet har ingen effekt med aktiverat sprite-läge.</strong>]]></phrase>
   <phrase title="3_months_ago" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Tre månader sedan]]></phrase> <!-- (M) Original: Three months ago | Computer: Tre månader sedan -->
   <phrase title="6_months_ago" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Sex månader sedan]]></phrase> <!-- (M) Original: Six months ago | Computer: Sex månader sedan -->
   <phrase title="9_months_ago" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Nio månader sedan]]></phrase> <!-- (M) Original: Nine months ago | Computer: Nio månader sedan -->
@@ -32,7 +32,7 @@
   <phrase title="action" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Handling]]></phrase> <!-- (C) Original: Action -->
   <phrase title="action_available_via_post_only" addon_id="XF" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Den här åtgärden är tillgänglig endast via POST. Vänligen tryck på tillbaka-knappen och försök igen.]]></phrase> <!-- (C) Original: This action is available via POST only. Please press the back button and try again. -->
   <phrase title="action_not_completed_because_no_longer_logged_in" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Den här åtgärden kunde inte slutföras eftersom du inte längre är inloggad. Vänligen ladda om sidan.]]></phrase> <!-- (C) Original: This action could not be completed because you are no longer logged in. Please reload the page. -->
-  <phrase title="action_prefix" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Åtgärds prefix]]></phrase> <!-- (C) Original: Action prefix -->
+  <phrase title="action_prefix" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Åtgärdsprefix]]></phrase> <!-- (C) Original: Action prefix -->
   <phrase title="action_to_take" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Åtgärd att ta]]></phrase> <!-- (C) Original: Action to take -->
   <phrase title="actions" addon_id="XF" global_cache="1" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Handlingar]]></phrase> <!-- (C) Original: Actions -->
   <phrase title="active_providers" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Aktiva leverantörer]]></phrase> <!-- (C) Original: Active providers -->
@@ -1557,7 +1557,7 @@ Your callback should return an HTML string, and have a signature as follows:<br 
   <phrase title="filter_started" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Satte igång]]></phrase> <!-- (C) Original: Started -->
   <phrase title="filter_unanswered" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Obesvarad]]></phrase> <!-- (C) Original: Unanswered -->
   <phrase title="filter_unread" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Oläst]]></phrase> <!-- (C) Original: Unread -->
-  <phrase title="filter_watched" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Betraktade]]></phrase> <!-- (C) Original: Watched -->
+  <phrase title="filter_watched" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bevakade]]></phrase> <!-- (C) Original: Watched -->
   <phrase title="filters" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Filter]]></phrase> <!-- (C) Original: Filters -->
   <phrase title="finalize_import" addon_id="XF" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[Slutföra importen]]></phrase> <!-- (C) Original: Finalize import -->
   <phrase title="finalizing" addon_id="XF" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[Slutbehandling]]></phrase> <!-- (C) Original: Finalizing -->
@@ -1726,9 +1726,9 @@ Your callback should return an HTML string, and have a signature as follows:<br 
 	<li><a href="https://support.apple.com/en-gb/HT201265" target="_blank">Safari for iOS</a></li>
 </ul>
 
-<h3 class="textHeading">More information about cookies</h3>
+<h3 class="textHeading">Mer information om cookies</h3>
 <p>
-	To learn more about cookies, and find more information about blocking certain types of cookies, please visit the <a href="https://ico.org.uk/for-the-public/online/cookies/" target="_blank">ICO website Cookies page</a>.
+	Om du vill lära dig mer om cookies och hitta mer information om att blockera vissa typer av cookies, besök <a href = "https://ico.org.uk/for-the-public/online/cookies/" target = "_ blank "> ICOs webbplats Cookies-sida </a>.
 </p>]]></phrase>
   <phrase title="help_page_desc.bb_codes" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Listan över BB-koder du kan använda för att krydda utseendet på dina meddelanden. Den här sidan visar en lista med alla BB-koder som är tillgängliga.]]></phrase> <!-- (C) Original: The list of BB codes you can use to spice up the look of your messages. This page shows a list of all BB codes that are available. -->
   <phrase title="help_page_desc.cookies" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Den här sidan förklarar hur den här webbplatsen använder cookies.]]></phrase> <!-- (C) Original: This page explains how this site uses cookies. -->
@@ -2463,7 +2463,7 @@ The callback should either return an array or nothing at all. If nothing is retu
   <phrase title="nav.searchForums" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sök forum]]></phrase> <!-- (C) Original: Search forums -->
   <phrase title="nav.searchProfilePosts" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sök profilinlägg]]></phrase> <!-- (C) Original: Search profile posts -->
   <phrase title="nav.unansweredThreads" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Obesvarade trådar]]></phrase> <!-- (C) Original: Unanswered threads -->
-  <phrase title="nav.watched" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Betraktade]]></phrase> <!-- (C) Original: Watched -->
+  <phrase title="nav.watched" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bevakade]]></phrase> <!-- (C) Original: Watched -->
   <phrase title="nav.watchedForums" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tittade på forum]]></phrase> <!-- (C) Original: Watched forums -->
   <phrase title="nav.watchedThreads" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tittade på tråden]]></phrase> <!-- (C) Original: Watched threads -->
   <phrase title="nav.whatsNew" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Vad är nytt]]></phrase> <!-- (C) Original: What's new -->
@@ -2490,7 +2490,7 @@ The callback should either return an array or nothing at all. If nothing is retu
   <phrase title="new_posts_filter_watched_explain" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[En lista över trådar som användaren tittar på har nyligen publicerats i.]]></phrase> <!-- (C) Original: A list of threads the user is watching that have been recently posted in. -->
   <phrase title="new_posts_latest" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Senast]]></phrase> <!-- (C) Original: Latest -->
   <phrase title="new_posts_unread" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Oläst]]></phrase> <!-- (C) Original: Unread -->
-  <phrase title="new_posts_watched" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Betraktade]]></phrase> <!-- (C) Original: Watched -->
+  <phrase title="new_posts_watched" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Bevakade]]></phrase> <!-- (C) Original: Watched -->
   <phrase title="new_profile_posts" addon_id="XF" global_cache="1" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Nya profilinlägg]]></phrase> <!-- (C) Original: New profile posts -->
   <phrase title="new_profile_posts_display_style_full_explain" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[En fullstoringsvy som visar liknande på profiler.]]></phrase> <!-- (C) Original: A full size view, displaying similar to on profiles. -->
   <phrase title="new_profile_posts_filter_followed_explain" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[En lista över profilinlägg av författaren eller personer som de följer.]]></phrase> <!-- (C) Original: A list of profile posts by the author or people they are following. -->
@@ -3611,52 +3611,52 @@ Callback arguments:
   <phrase title="privacy" addon_id="XF" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Integritet]]></phrase> <!-- (C) Original: Privacy -->
   <phrase title="privacy_options" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Sekretessalternativ]]></phrase> <!-- (C) Original: Privacy options -->
   <phrase title="privacy_policy" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Integritetspolicy]]></phrase> <!-- (M) Original: Privacy policy | Computer: Integritetspolicy -->
-  <phrase title="privacy_policy_text" addon_id="XF" version_id="2000632" version_string="2.0.6 Beta 2"><![CDATA[<p>We are {board_title} ("we", "our", "us"). We’re committed to protecting and respecting your privacy. If you have questions about your personal information please <a href="{contactUrl}">contact us</a>.</p>
+  <phrase title="privacy_policy_text" addon_id="XF" version_id="2000632" version_string="2.0.6 Beta 2"><![CDATA[<p> Vi är {board_title} ("vi", "vår", "oss"). Vi är engagerade i att skydda och respektera din integritet. Om du har frågor om din personliga information, vänligen <a href="{contactUrl}"> kontakta oss </a>. </ P>
 
-<h2>What information we hold about you</h2>
-<p>The type of data that we collect and process includes:</p>
-<ul>
-	<li>Your name or username.</li>
-	<li>Your email address.</li>
-	<li>Your IP address.</li>
-</ul>
-<p>Further data may be collected if you choose to share it, such as if you fill out fields on your profile.</p>
-<p>We collect some or all of this information in the following cases:</p>
-<ul>
-	<li>You register as a member on this site.</li>
-	<li>You fill out our contact form.</li>
-	<li>You browse this site. See "Cookie policy" below.</li>
-	<li>You fill out fields on your profile.</li>
-</ul>
+<h2> Vilken information vi har om dig </ h2>
+<p> Den typ av data som vi samlar in och bearbetar omfattar: </ p>
+<Ul>
+<li> Ditt namn eller användarnamn. </ li>
+<li> Din e-postadress. </ li>
+<li> Din IP-adress. </ li>
+</ Ul>
+<p> Ytterligare uppgifter kan samlas om du väljer att dela den, till exempel om du fyller i fält i din profil. </ p>
+<p> Vi samlar in någon eller all denna information i följande fall: </ p>
+<Ul>
+<li> Du registrerar dig som medlem på den här webbplatsen. </ li>
+<li> Du fyller i vårt kontaktformulär. </ li>
+<li> Du tittar på den här webbplatsen. Se "Cookies policy" nedan. </ Li>
+<li> Du fyller i fält i din profil. </ li>
+</ Ul>
 
-<h2>How your personal information is used</h2>
-<p>We may use your personal information in the following ways:</p>
-<ul>
-	<li>For the purposes of making you a registered member of our site, in order for you to contribute content to this site.</li>
-	<li>We may use your email address to inform you of activity on our site.</li>
-	<li>Your IP address is recorded when you perform certain actions on our site. Your IP address is never publicly visible.</li>
-</ul>
+<h2> Hur används din personliga information </ h2>
+<p> Vi kan använda din personliga information på följande sätt: </ p>
+<Ul>
+<li> För att göra dig en registrerad medlem på vår webbplats, så att du kan bidra med innehåll till den här webbplatsen. </ li>
+<li> Vi kan använda din e-postadress för att informera dig om aktiviteter på vår webbplats. </ li>
+<li> Din IP-adress registreras när du utför vissa åtgärder på vår webbplats. Din IP-adress är aldrig offentligt synlig. </ Li>
+</ Ul>
 
-<h2>Other ways we may use your personal information.</h2>
-<p>In addition to notifying you of activity on our site which may be relevant to you, from time to time we may wish to communicate with all members any important information such as newsletters or announcements by email. You can opt-in to or opt-out of such emails in your profile.</p>
-<p>We may collect non-personally identifiable information about you in the course of your interaction with our site. This information may include technical information about the browser or type of device you're using. This information will be used purely for the purposes of analytics and tracking the number of visitors to our site.</p>
+<h2> Andra sätt kan vi använda din personliga information. </ h2>
+<p> Förutom att anmäla dig till aktiviteter på vår webbplats som kan vara relevant för dig, kan vi eventuellt vilja kommunicera med alla medlemmar med viktig information, t.ex. nyhetsbrev eller meddelanden via e-post. Du kan välja bort eller ta bort sådana e-postmeddelanden i din profil. </ P>
+<p> Vi kan samla in personligt identifierbar information om dig i samband med din interaktion med vår webbplats. Denna information kan innehålla teknisk information om webbläsaren eller typen av enhet du använder. Denna information kommer endast att användas för analys och spårning av antalet besökare på vår webbplats. </ P>
 
-<h2>Keeping your data secure</h2>
-<p>We are committed to ensuring that any information you provide to us is secure. In order to prevent unauthorized access or disclosure, we have put in place suitable measures and procedures to safeguard and secure the information that we collect.</p>
+<h2> Håller dina data säkra </ h2>
+<p> Vi är fast beslutna att se till att all information du lämnar oss är säker. För att förhindra obehörig åtkomst eller avslöjande har vi infört lämpliga åtgärder och förfaranden för att skydda och säkra den information vi samlar in. </ P>
 
-<h2>Cookie policy</h2>
-<p>Cookies are small text files which are set by us on your computer which allow us to provide certain functionality on our site, such as being able to log in, or remembering certain preferences.</p>
-<p>We have a detailed cookie policy and more information about the cookies that we set on <a href="{cookieHelp}">this page</a>.</p>
+<h2> Cookies policy </ h2>
+<p> Kakor är små textfiler som är inställda av oss på din dator, vilket gör det möjligt för oss att tillhandahålla viss funktionalitet på vår webbplats, till exempel att kunna logga in eller komma ihåg vissa inställningar. </ p>
+<p> Vi har en detaljerad cookiepolicy och mer information om de cookies vi ställt in på <a href="{cookieHelp}"> den här sidan </a>. </ p>
 
-<h2>Rights</h2>
-<p>You have a right to access the personal data we hold about you or obtain a copy of it. To do so please <a href="{contactUrl}">contact us</a>. If you believe that the information we hold for you is incomplete or inaccurate, you may <a href="{contactUrl}">contact us</a> to ask us to complete or correct that information.</p>
-<p>You also have the right to request the erasure of your personal data. Please <a href="{contactUrl}">contact us</a> if you would like us to remove your personal data.</p>
+<H2> rättigheter </ h2>
+<p> Du har rätt att få tillgång till de personuppgifter vi håller om dig eller få en kopia av den. För att göra så snälla <a href="{contactUrl}"> kontakta oss </a>. Om du tror att informationen vi håller för dig är ofullständig eller felaktig, kan du <a href="{contactUrl}"> kontakta oss </a> för att fråga oss att slutföra eller korrigera den informationen. </ P>
+<p> Du har också rätt att begära radering av dina personuppgifter. Snälla <a href="{contactUrl}"> kontakta oss </a> om du vill att vi ska ta bort dina personuppgifter. </ P>
 
-<h2>Samtycke till integritetspolicyn</h2>
-<p>Continued use of our site signifies your acceptance of this policy. If you do not accept the policy then please do not use this site. When registering we will further request your explicit acceptance of the integritetspolicyn.</p>
+<h2> Samtycke till integritetspolicyn </ h2>
+<p> Fortsatt användning av vår webbplats innebär att du samtycker till denna policy. Om du inte samtycker till policyn ska du inte använda den här sidan. När du registrerar kommer vi ytterligare att begära ditt uttryckliga godkännande av integritetspolicyn. </ P>
 
-<h2>Changes to this policy</h2>
-<p>We may make changes to this policy at any time. You may be asked to review and re-accept the information in this policy if it changes in the future.</p>]]></phrase>
+<h2> Ändringar av denna policy </ h2>
+<p> Vi kan när som helst göra ändringar i denna policy. Du kan bli ombedd att granska och samtycka till informationen i denna policy om den ändras i framtiden. </ P>]]></phrase>
   <phrase title="private" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Privat]]></phrase> <!-- (C) Original: Private -->
   <phrase title="private_category" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Privat kategori]]></phrase> <!-- (C) Original: Private category -->
   <phrase title="private_category_hint" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Om vald, kan användarna bara se den här kategorin om de uttryckligen beviljas behörigheter.]]></phrase> <!-- (C) Original: If selected, users will only be able to view this category if they are explicitly granted permissions. -->
@@ -4786,21 +4786,21 @@ You will also need to set up a webhook endpoint in your Stripe account with the 
   <phrase title="templates_in_this_style_can_not_be_modified" addon_id="XF" version_id="0" version_string=""><![CDATA[Mallar i denna stil kan inte ändras. Var god försök en annan.]]></phrase> <!-- (C) Original: Templates in this style can not be modified. Please try another. -->
   <phrase title="temporary" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Temporär]]></phrase> <!-- (C) Original: Temporary -->
   <phrase title="terms_and_rules" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Medlemsvillkor]]></phrase> <!-- (M) Original: Terms and rules | Computer: Villkor och regler -->
-  <phrase title="terms_rules_text" addon_id="XF" version_id="2000632" version_string="2.0.6 Beta 2"><![CDATA[<p>The providers ("we", "us", "our") of the service provided by this web site ("Service") are not responsible for any user-generated content and accounts. Content submitted express the views of their author only.</p>
+  <phrase title="terms_rules_text" addon_id="XF" version_id="2000632" version_string="2.0.6 Beta 2"><![CDATA[<p>Leverantörerna ("vi", "oss", "våra") av tjänsten som tillhandahålls av denna webbplats ("Tjänst") är inte ansvariga för något användargenererat innehåll eller för medlemmarnas konton. Postat innehåll uttrycker endast deras författares synpunkter. </ p>
 
-<p>This Service is only available to users who are at least {age} years old. If you are younger than this, please do not register for this Service. If you register for this Service, you represent that you are this age or older.</p>
+<p> Denna tjänst är endast tillgänglig för användare som är minst {age} år gamla. Om du är yngre än det här, vänligen registrera dig inte för den här tjänsten. Om du registrerar dig för den här tjänsten, representerar du att du är denna ålder eller äldre. </ P>
 
-<p>All content you submit, upload, or otherwise make available to the Service ("Content") may be reviewed by staff members. All Content you submit or upload may be sent to third-party verification services (including, but not limited to, spam prevention services). Do not submit any Content that you consider to be private or confidential.</p>
+<p> Allt innehåll du skickar in, laddar upp eller på annat sätt gör tillgängligt för tjänsten ("Innehåll") kan granskas av personalen. Allt innehåll som du skickar in eller överför kan skickas till tredjepartsverifieringstjänster (inklusive, men inte begränsat till, skräppostskyddstjänster). Skicka inte in innehåll som du anser vara privat eller konfidentiellt. </ p>
 
-<p>You agree to not use the Service to submit or link to any Content which is defamatory, abusive, hateful, threatening, spam or spam-like, likely to offend, contains adult or objectionable content, contains personal information of others, risks copyright infringement, encourages unlawful activity, or otherwise violates any laws. You are entirely responsible for the content of, and any harm resulting from, that Content or your conduct.</p>
+<p> Du godkänner att du inte använder tjänsten för att skicka in eller länka till något innehåll som är ärekränkande, kränkande, hatfullt, hotfullt, spam eller spam-liknande, som riskerar att förolämpa, innehåller vuxen- eller anstötligt innehåll, innehåller personuppgifter, riskerar upphovsrättsintrång, uppmuntrar olaglig verksamhet eller på annat sätt bryter mot lagar. Du är helt ansvarig för innehållet i och eventuella skador som härrör från det innehållet eller ditt beteende.</ p>
 
-<p>We may remove or modify any Content submitted at any time, with or without cause, with or without notice. Requests for Content to be removed or modified will be undertaken only at our discretion. We may terminate your access to all or any part of the Service at any time, with or without cause, with or without notice.</p>
+<p> Vi kan ta bort eller ändra innehåll som skickas när som helst, med eller utan orsak, med eller utan förvarning. Begäran om att innehållet ska tas bort eller modifieras kommer endast att genomföras efter eget gottfinnande. Vi kan avsluta din tillgång till hela eller någon del av tjänsten när som helst, med eller utan orsak, med eller utan förvarning. </ p>
 
-<p>You are granting us with a non-exclusive, permanent, irrevocable, unlimited license to use, publish, or re-publish your Content in connection with the Service. You retain copyright over the Content.</p>
+<p> Du ger oss en icke-exklusiv, permanent, oåterkallelig, obegränsad licens att använda, publicera ditt innehåll i samband med tjänsten. Du behåller upphovsrätten över innehållet.</ p>
 
-<p>These terms may be changed at any time without notice.</p>
+<p> Dessa villkor kan ändras när som helst utan föregående meddelande.</p>
 
-<p>If you do not agree with these terms, please do not register or use the Service. Use of the Service constitutes acceptance of these terms. If you wish to close your account, please <a href="{contactUrl}">contact us</a>.</p>]]></phrase>
+<p>Om du inte samtycker till dessa villkor, vänligen registrera dig inte och använd inte tjänsten. Användning av tjänsten utgör godkännande av dessa villkor. Om du vill stänga ditt konto, vänligen <a href="{contactUrl}"> kontakta oss </a>. </ p>]]></phrase>
   <phrase title="terrible" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Fruktansvärd]]></phrase> <!-- (C) Original: Terrible -->
   <phrase title="test" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Testa]]></phrase> <!-- (C) Original: Test -->
   <phrase title="test_email_sent_to_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Test e-post skickat till {email}.]]></phrase> <!-- (C) Original: Test email sent to {email}. -->
