@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-
 <language title="Svenska" date_format="j F Y" time_format="H:i" currency_format="{value}{symbol}" week_start="1" decimal_point="." thousands_separator="," label_separator=":" comma_separator=", " ellipsis="..." parenthesis_open="(" parenthesis_close=")" language_code="sv-SE" text_direction="LTR" addon_id="XF" export_version="1">
   <phrase title="1_day_ago" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[En dag sedan]]></phrase> <!-- (M) Original: One day ago | Computer: För en dag sen -->
   <phrase title="1_month_ago" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[En månad sedan]]></phrase> <!-- (M) Original: One month ago | Computer: En månad sedan -->
@@ -11,7 +10,6 @@
   <phrase title="2_years_ago" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Två år sedan]]></phrase> <!-- (M) Original: Two years ago | Computer: Två år sedan -->
   <phrase title="2x_image_replacement_url" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[2x bild ersättnings-URL]]></phrase> <!-- (M) Original: 2x image replacement URL | Computer: 2x bildbytesadress -->
   <phrase title="2x_image_replacement_url_explain" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Om angivet så kommer 2x-bilden automatiskt att visas istället för bild-URL:en på enheter som har stöd för högre bildupplösning.<br />
-
 <br />
 <strong>Note: This option has no effect with sprite mode enabled.</strong>]]></phrase>
   <phrase title="3_months_ago" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Tre månader sedan]]></phrase> <!-- (M) Original: Three months ago | Computer: Tre månader sedan -->
@@ -3655,9 +3653,7 @@ Callback arguments:
 <p>You also have the right to request the erasure of your personal data. Please <a href="{contactUrl}">contact us</a> if you would like us to remove your personal data.</p>
 
 <h2>Samtycke till integritetspolicyn</h2>
-
 <p>Continued use of our site signifies your acceptance of this policy. If you do not accept the policy then please do not use this site. When registering we will further request your explicit acceptance of the integritetspolicyn.</p>
-
 
 <h2>Changes to this policy</h2>
 <p>We may make changes to this policy at any time. You may be asked to review and re-accept the information in this policy if it changes in the future.</p>]]></phrase>
@@ -5909,4 +5905,3 @@ Two-step verification increases the security of your account by requiring you to
   <phrase title="youre_ready_start_import_will_run_browser_window_open" addon_id="XF" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[Du är nu redo att börja importera. När en gång har startats fortsätter importen att köras medan detta webbläsarfönster är öppet. När alla data har importerats kommer ytterligare instruktioner att visas.]]></phrase> <!-- (C) Original: You're now ready to start the import. Once started, the import will continue to run while this browser window is open. Once all data has been imported, further instructions will be displayed. -->
   <phrase title="zoom" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Zoom]]></phrase> <!-- (C) Original: Zoom -->
 </language>
-
