@@ -855,7 +855,7 @@ If you have edited these files yourself, you may ignore this message, otherwise 
   <phrase title="consumer_secret" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Konsumenthemlighet]]></phrase> <!-- (C) Original: Consumer secret -->
   <phrase title="contact" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kontakta]]></phrase> <!-- (C) Original: Contact -->
   <phrase title="contact_details" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kontaktuppgifter]]></phrase> <!-- (C) Original: Contact details -->
-  <phrase title="contact_email_body_html" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[<p> Följande meddelande har skickats från {user} (IP: {ip}) via kontaktformuläret på {board}. </ p>]]></phrase> <!-- (C) Original: <p>The following message has been sent from {user} (IP: {ip}) via the contact form at {board}.</p> -->
+  <phrase title="contact_email_body_html" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[<p> Följande meddelande har skickats från {user} (IP: {ip}) via kontaktformuläret på {board}.</p>]]></phrase> <!-- (C) Original: <p>The following message has been sent from {user} (IP: {ip}) via the contact form at {board}.</p> -->
   <phrase title="contact_email_subject" addon_id="XF" version_id="0" version_string=""><![CDATA[{subject} (från {board_title})]]></phrase> <!-- (C) Original: {subject} (from {board_title}) -->
   <phrase title="contact_us" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kontakta oss]]></phrase> <!-- (C) Original: Contact us -->
   <phrase title="contacting_staff" addon_id="XF" version_id="1040670" version_string="1.4.6"><![CDATA[Kontakta personalen]]></phrase> <!-- (C) Original: Contacting staff -->
@@ -888,12 +888,12 @@ If you have edited these files yourself, you may ignore this message, otherwise 
   <phrase title="controller_and_action_criteria_explain" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Ange åtgärdsnamn som <b> personuppgifter </ b>, inte <b> actionPersonalDetails </ b> eller <b> personalDetails </ b>. Du får lämna åtgärden blank för att tillämpas på alla åtgärder inom den angivna kontrollenheten.]]></phrase> <!-- (C) Original: Specify action name as <b>personal-details</b>, not <b>actionPersonalDetails</b> or <b>personalDetails</b>. You may leave the action blank to apply to all actions within the specified controller. -->
   <phrase title="controller_and_action_is" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Controller och åtgärd är]]></phrase> <!-- (C) Original: Controller and action is -->
   <phrase title="conversation" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Konversation]]></phrase> <!-- (C) Original: Conversation -->
-  <phrase title="conversation_email_html_footer" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[<p class = "minorText"> Detta meddelande skickades till dig eftersom dina inställningar är inställda för att ta emot e-post när ett nytt konversationsmeddelande har tagits emot. <a href="{disable_link}"> Sluta ta emot dessa e-postmeddelanden </a>. </ p>]]></phrase> <!-- (C) Original: <p class="minorText">This message was sent to you because your preferences are set to receive email when a new conversation message is received. <a href="{disable_link}">Stop receiving these emails</a>.</p> -->
+  <phrase title="conversation_email_html_footer" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[<p class = "minorText"> Detta meddelande skickades till dig eftersom dina inställningar är inställda för att ta emot e-post när ett nytt konversationsmeddelande har tagits emot. <a href="{disable_link}"> Sluta ta emot dessa e-postmeddelanden </a>.</p>]]></phrase> <!-- (C) Original: <p class="minorText">This message was sent to you because your preferences are set to receive email when a new conversation message is received. <a href="{disable_link}">Stop receiving these emails</a>.</p> -->
   <phrase title="conversation_info" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Conversation info]]></phrase> <!-- (C) Original: Conversation info -->
-  <phrase title="conversation_insert_email_html" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[<p> {sender} startade ett nytt samtal med dig på {board}. </ p>]]></phrase> <!-- (C) Original: <p>{sender} started a new conversation with you at {board}.</p> -->
+  <phrase title="conversation_insert_email_html" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[<p> {sender} startade ett nytt samtal med dig på {board}.</p>]]></phrase> <!-- (C) Original: <p>{sender} started a new conversation with you at {board}.</p> -->
   <phrase title="conversation_insert_email_subject" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[{username} startade en konversation med dig: "{title}"]]></phrase> <!-- (C) Original: {username} started a conversation with you: "{title}" -->
   <phrase title="conversation_is_closed" addon_id="XF" version_id="1000012" version_string="1.0.0 Alpha 2"><![CDATA[Samtalet är stängt och accepterar inte ytterligare svar eller ändringar.]]></phrase> <!-- (C) Original: This conversation is closed and will not accept further replies or edits. -->
-  <phrase title="conversation_join_email_html" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[<p> {sender} lade dig till en befintlig konversation på {board}. </ p>]]></phrase> <!-- (C) Original: <p>{sender} added you to an existing conversation at {board}.</p> -->
+  <phrase title="conversation_join_email_html" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[<p> {sender} lade dig till en befintlig konversation på {board}.</p>]]></phrase> <!-- (C) Original: <p>{sender} added you to an existing conversation at {board}.</p> -->
   <phrase title="conversation_join_email_subject" addon_id="XF" version_id="1000014" version_string="1.0.0 Alpha 4"><![CDATA[{username} lade dig till konversationen "{title}"]]></phrase> <!-- (C) Original: {username} added you to the conversation "{title}" -->
   <phrase title="conversation_marked_as_read" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Samtal markerad som läst.]]></phrase> <!-- (C) Original: Conversation marked as read. -->
   <phrase title="conversation_marked_as_unread" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Samtal markerad som oläst.]]></phrase> <!-- (C) Original: Conversation marked as unread. -->
@@ -902,7 +902,7 @@ If you have edited these files yourself, you may ignore this message, otherwise 
   <phrase title="conversation_messages" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Konversationsmeddelanden]]></phrase> <!-- (C) Original: Conversation messages -->
   <phrase title="conversation_options" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Konversationsalternativ]]></phrase> <!-- (C) Original: Conversation options -->
   <phrase title="conversation_participants" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Samtal deltagare]]></phrase> <!-- (C) Original: Conversation participants -->
-  <phrase title="conversation_reply_email_html" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[<p> {sender} svarade på din konversation på {board}. </ p>]]></phrase> <!-- (C) Original: <p>{sender} replied to your conversation at {board}.</p> -->
+  <phrase title="conversation_reply_email_html" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[<p> {sender} svarade på din konversation på {board}.</p>]]></phrase> <!-- (C) Original: <p>{sender} replied to your conversation at {board}.</p> -->
   <phrase title="conversation_reply_email_subject" addon_id="XF" version_id="1010033" version_string="1.1.0 Beta 3"><![CDATA[{title} - Nytt svar på din konversation]]></phrase> <!-- (C) Original: {title} - New reply to your conversation -->
   <phrase title="conversation_settings" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Konversationsinställningar]]></phrase> <!-- (C) Original: Conversation settings -->
   <phrase title="conversation_starred" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Konversation medverkade.]]></phrase> <!-- (C) Original: Conversation starred. -->
@@ -3611,52 +3611,52 @@ Callback arguments:
   <phrase title="privacy" addon_id="XF" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Integritet]]></phrase> <!-- (C) Original: Privacy -->
   <phrase title="privacy_options" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Sekretessalternativ]]></phrase> <!-- (C) Original: Privacy options -->
   <phrase title="privacy_policy" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Integritetspolicy]]></phrase> <!-- (M) Original: Privacy policy | Computer: Integritetspolicy -->
-  <phrase title="privacy_policy_text" addon_id="XF" version_id="2000632" version_string="2.0.6 Beta 2"><![CDATA[<p> Vi är {board_title} ("vi", "vår", "oss"). Vi är engagerade i att skydda och respektera din integritet. Om du har frågor om din personliga information, vänligen <a href="{contactUrl}"> kontakta oss </a>. </ P>
+  <phrase title="privacy_policy_text" addon_id="XF" version_id="2000632" version_string="2.0.6 Beta 2"><![CDATA[<p> Vi är {board_title} ("vi", "vår", "oss"). Vi är engagerade i att skydda och respektera din integritet. Om du har frågor om din personliga information, vänligen <a href="{contactUrl}"> kontakta oss </a>.</p>
 
-<h2> Vilken information vi har om dig </ h2>
-<p> Den typ av data som vi samlar in och bearbetar omfattar: </ p>
+<h2> Vilken information vi har om dig</h2>
+<p> Den typ av data som vi samlar in och bearbetar omfattar:</p>
 <Ul>
-<li> Ditt namn eller användarnamn. </ li>
-<li> Din e-postadress. </ li>
-<li> Din IP-adress. </ li>
-</ Ul>
-<p> Ytterligare uppgifter kan samlas om du väljer att dela den, till exempel om du fyller i fält i din profil. </ p>
-<p> Vi samlar in någon eller all denna information i följande fall: </ p>
+<li> Ditt namn eller användarnamn.</li>
+<li> Din e-postadress.</li>
+<li> Din IP-adress.</li>
+</ul>
+<p> Ytterligare uppgifter kan samlas om du väljer att dela den, till exempel om du fyller i fält i din profil.</p>
+<p> Vi samlar in någon eller all denna information i följande fall:</p>
 <Ul>
-<li> Du registrerar dig som medlem på den här webbplatsen. </ li>
-<li> Du fyller i vårt kontaktformulär. </ li>
-<li> Du tittar på den här webbplatsen. Se "Cookies policy" nedan. </ Li>
-<li> Du fyller i fält i din profil. </ li>
-</ Ul>
+<li> Du registrerar dig som medlem på den här webbplatsen.</li>
+<li> Du fyller i vårt kontaktformulär.</li>
+<li> Du tittar på den här webbplatsen. Se "Cookies policy" nedan.</li>
+<li> Du fyller i fält i din profil.</li>
+</ul>
 
-<h2> Hur används din personliga information </ h2>
-<p> Vi kan använda din personliga information på följande sätt: </ p>
+<h2> Hur används din personliga information</h2>
+<p> Vi kan använda din personliga information på följande sätt:</p>
 <Ul>
-<li> För att göra dig en registrerad medlem på vår webbplats, så att du kan bidra med innehåll till den här webbplatsen. </ li>
-<li> Vi kan använda din e-postadress för att informera dig om aktiviteter på vår webbplats. </ li>
-<li> Din IP-adress registreras när du utför vissa åtgärder på vår webbplats. Din IP-adress är aldrig offentligt synlig. </ Li>
-</ Ul>
+<li> För att göra dig en registrerad medlem på vår webbplats, så att du kan bidra med innehåll till den här webbplatsen.</li>
+<li> Vi kan använda din e-postadress för att informera dig om aktiviteter på vår webbplats.</li>
+<li> Din IP-adress registreras när du utför vissa åtgärder på vår webbplats. Din IP-adress är aldrig offentligt synlig.</li>
+</ul>
 
-<h2> Andra sätt kan vi använda din personliga information. </ h2>
-<p> Förutom att anmäla dig till aktiviteter på vår webbplats som kan vara relevant för dig, kan vi eventuellt vilja kommunicera med alla medlemmar med viktig information, t.ex. nyhetsbrev eller meddelanden via e-post. Du kan välja bort eller ta bort sådana e-postmeddelanden i din profil. </ P>
-<p> Vi kan samla in personligt identifierbar information om dig i samband med din interaktion med vår webbplats. Denna information kan innehålla teknisk information om webbläsaren eller typen av enhet du använder. Denna information kommer endast att användas för analys och spårning av antalet besökare på vår webbplats. </ P>
+<h2> Andra sätt kan vi använda din personliga information.</h2>
+<p> Förutom att anmäla dig till aktiviteter på vår webbplats som kan vara relevant för dig, kan vi eventuellt vilja kommunicera med alla medlemmar med viktig information, t.ex. nyhetsbrev eller meddelanden via e-post. Du kan välja bort eller ta bort sådana e-postmeddelanden i din profil.</p>
+<p> Vi kan samla in personligt identifierbar information om dig i samband med din interaktion med vår webbplats. Denna information kan innehålla teknisk information om webbläsaren eller typen av enhet du använder. Denna information kommer endast att användas för analys och spårning av antalet besökare på vår webbplats.</p>
 
-<h2> Håller dina data säkra </ h2>
-<p> Vi är fast beslutna att se till att all information du lämnar oss är säker. För att förhindra obehörig åtkomst eller avslöjande har vi infört lämpliga åtgärder och förfaranden för att skydda och säkra den information vi samlar in. </ P>
+<h2> Håller dina data säkra</h2>
+<p> Vi är fast beslutna att se till att all information du lämnar oss är säker. För att förhindra obehörig åtkomst eller avslöjande har vi infört lämpliga åtgärder och förfaranden för att skydda och säkra den information vi samlar in.</p>
 
-<h2> Cookies policy </ h2>
-<p> Kakor är små textfiler som är inställda av oss på din dator, vilket gör det möjligt för oss att tillhandahålla viss funktionalitet på vår webbplats, till exempel att kunna logga in eller komma ihåg vissa inställningar. </ p>
-<p> Vi har en detaljerad cookiepolicy och mer information om de cookies vi ställt in på <a href="{cookieHelp}"> den här sidan </a>. </ p>
+<h2> Cookies policy</h2>
+<p> Kakor är små textfiler som är inställda av oss på din dator, vilket gör det möjligt för oss att tillhandahålla viss funktionalitet på vår webbplats, till exempel att kunna logga in eller komma ihåg vissa inställningar.</p>
+<p> Vi har en detaljerad cookiepolicy och mer information om de cookies vi ställt in på <a href="{cookieHelp}"> den här sidan </a>.</p>
 
-<H2> rättigheter </ h2>
-<p> Du har rätt att få tillgång till de personuppgifter vi håller om dig eller få en kopia av den. För att göra så snälla <a href="{contactUrl}"> kontakta oss </a>. Om du tror att informationen vi håller för dig är ofullständig eller felaktig, kan du <a href="{contactUrl}"> kontakta oss </a> för att fråga oss att slutföra eller korrigera den informationen. </ P>
-<p> Du har också rätt att begära radering av dina personuppgifter. Snälla <a href="{contactUrl}"> kontakta oss </a> om du vill att vi ska ta bort dina personuppgifter. </ P>
+<H2> rättigheter</h2>
+<p> Du har rätt att få tillgång till de personuppgifter vi håller om dig eller få en kopia av den. För att göra så snälla <a href="{contactUrl}"> kontakta oss </a>. Om du tror att informationen vi håller för dig är ofullständig eller felaktig, kan du <a href="{contactUrl}"> kontakta oss </a> för att fråga oss att slutföra eller korrigera den informationen.</p>
+<p> Du har också rätt att begära radering av dina personuppgifter. Snälla <a href="{contactUrl}"> kontakta oss </a> om du vill att vi ska ta bort dina personuppgifter.</p>
 
-<h2> Samtycke till integritetspolicyn </ h2>
-<p> Fortsatt användning av vår webbplats innebär att du samtycker till denna policy. Om du inte samtycker till policyn ska du inte använda den här sidan. När du registrerar kommer vi ytterligare att begära ditt uttryckliga godkännande av integritetspolicyn. </ P>
+<h2> Samtycke till integritetspolicyn</h2>
+<p> Fortsatt användning av vår webbplats innebär att du samtycker till denna policy. Om du inte samtycker till policyn ska du inte använda den här sidan. När du registrerar kommer vi ytterligare att begära ditt uttryckliga godkännande av integritetspolicyn.</p>
 
-<h2> Ändringar av denna policy </ h2>
-<p> Vi kan när som helst göra ändringar i denna policy. Du kan bli ombedd att granska och samtycka till informationen i denna policy om den ändras i framtiden. </ P>]]></phrase>
+<h2> Ändringar av denna policy</h2>
+<p> Vi kan när som helst göra ändringar i denna policy. Du kan bli ombedd att granska och samtycka till informationen i denna policy om den ändras i framtiden.</p>]]></phrase>
   <phrase title="private" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Privat]]></phrase> <!-- (C) Original: Private -->
   <phrase title="private_category" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Privat kategori]]></phrase> <!-- (C) Original: Private category -->
   <phrase title="private_category_hint" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Om vald, kan användarna bara se den här kategorin om de uttryckligen beviljas behörigheter.]]></phrase> <!-- (C) Original: If selected, users will only be able to view this category if they are explicitly granted permissions. -->
@@ -4786,21 +4786,21 @@ You will also need to set up a webhook endpoint in your Stripe account with the 
   <phrase title="templates_in_this_style_can_not_be_modified" addon_id="XF" version_id="0" version_string=""><![CDATA[Mallar i denna stil kan inte ändras. Var god försök en annan.]]></phrase> <!-- (C) Original: Templates in this style can not be modified. Please try another. -->
   <phrase title="temporary" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Temporär]]></phrase> <!-- (C) Original: Temporary -->
   <phrase title="terms_and_rules" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Medlemsvillkor]]></phrase> <!-- (M) Original: Terms and rules | Computer: Villkor och regler -->
-  <phrase title="terms_rules_text" addon_id="XF" version_id="2000632" version_string="2.0.6 Beta 2"><![CDATA[<p>Leverantörerna ("vi", "oss", "våra") av tjänsten som tillhandahålls av denna webbplats ("Tjänst") är inte ansvariga för något användargenererat innehåll eller för medlemmarnas konton. Postat innehåll uttrycker endast deras författares synpunkter. </ p>
+  <phrase title="terms_rules_text" addon_id="XF" version_id="2000632" version_string="2.0.6 Beta 2"><![CDATA[<p>Leverantörerna ("vi", "oss", "våra") av tjänsten som tillhandahålls av denna webbplats ("Tjänst") är inte ansvariga för något användargenererat innehåll eller för medlemmarnas konton. Postat innehåll uttrycker endast deras författares synpunkter.</p>
 
-<p> Denna tjänst är endast tillgänglig för användare som är minst {age} år gamla. Om du är yngre än det här, vänligen registrera dig inte för den här tjänsten. Om du registrerar dig för den här tjänsten, representerar du att du är denna ålder eller äldre. </ P>
+<p> Denna tjänst är endast tillgänglig för användare som är minst {age} år gamla. Om du är yngre än det här, vänligen registrera dig inte för den här tjänsten. Om du registrerar dig för den här tjänsten, representerar du att du är denna ålder eller äldre.</p>
 
-<p> Allt innehåll du skickar in, laddar upp eller på annat sätt gör tillgängligt för tjänsten ("Innehåll") kan granskas av personalen. Allt innehåll som du skickar in eller överför kan skickas till tredjepartsverifieringstjänster (inklusive, men inte begränsat till, skräppostskyddstjänster). Skicka inte in innehåll som du anser vara privat eller konfidentiellt. </ p>
+<p> Allt innehåll du skickar in, laddar upp eller på annat sätt gör tillgängligt för tjänsten ("Innehåll") kan granskas av personalen. Allt innehåll som du skickar in eller överför kan skickas till tredjepartsverifieringstjänster (inklusive, men inte begränsat till, skräppostskyddstjänster). Skicka inte in innehåll som du anser vara privat eller konfidentiellt.</p>
 
-<p> Du godkänner att du inte använder tjänsten för att skicka in eller länka till något innehåll som är ärekränkande, kränkande, hatfullt, hotfullt, spam eller spam-liknande, som riskerar att förolämpa, innehåller vuxen- eller anstötligt innehåll, innehåller personuppgifter, riskerar upphovsrättsintrång, uppmuntrar olaglig verksamhet eller på annat sätt bryter mot lagar. Du är helt ansvarig för innehållet i och eventuella skador som härrör från det innehållet eller ditt beteende.</ p>
+<p> Du godkänner att du inte använder tjänsten för att skicka in eller länka till något innehåll som är ärekränkande, kränkande, hatfullt, hotfullt, spam eller spam-liknande, som riskerar att förolämpa, innehåller vuxen- eller anstötligt innehåll, innehåller personuppgifter, riskerar upphovsrättsintrång, uppmuntrar olaglig verksamhet eller på annat sätt bryter mot lagar. Du är helt ansvarig för innehållet i och eventuella skador som härrör från det innehållet eller ditt beteende.</p>
 
-<p> Vi kan ta bort eller ändra innehåll som skickas när som helst, med eller utan orsak, med eller utan förvarning. Begäran om att innehållet ska tas bort eller modifieras kommer endast att genomföras efter eget gottfinnande. Vi kan avsluta din tillgång till hela eller någon del av tjänsten när som helst, med eller utan orsak, med eller utan förvarning. </ p>
+<p> Vi kan ta bort eller ändra innehåll som skickas när som helst, med eller utan orsak, med eller utan förvarning. Begäran om att innehållet ska tas bort eller modifieras kommer endast att genomföras efter eget gottfinnande. Vi kan avsluta din tillgång till hela eller någon del av tjänsten när som helst, med eller utan orsak, med eller utan förvarning.</p>
 
-<p> Du ger oss en icke-exklusiv, permanent, oåterkallelig, obegränsad licens att använda, publicera ditt innehåll i samband med tjänsten. Du behåller upphovsrätten över innehållet.</ p>
+<p> Du ger oss en icke-exklusiv, permanent, oåterkallelig, obegränsad licens att använda, publicera ditt innehåll i samband med tjänsten. Du behåller upphovsrätten över innehållet.</p>
 
 <p> Dessa villkor kan ändras när som helst utan föregående meddelande.</p>
 
-<p>Om du inte samtycker till dessa villkor, vänligen registrera dig inte och använd inte tjänsten. Användning av tjänsten utgör godkännande av dessa villkor. Om du vill stänga ditt konto, vänligen <a href="{contactUrl}"> kontakta oss </a>. </ p>]]></phrase>
+<p>Om du inte samtycker till dessa villkor, vänligen registrera dig inte och använd inte tjänsten. Användning av tjänsten utgör godkännande av dessa villkor. Om du vill stänga ditt konto, vänligen <a href="{contactUrl}"> kontakta oss </a>.</p>]]></phrase>
   <phrase title="terrible" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Fruktansvärd]]></phrase> <!-- (C) Original: Terrible -->
   <phrase title="test" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Testa]]></phrase> <!-- (C) Original: Test -->
   <phrase title="test_email_sent_to_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Test e-post skickat till {email}.]]></phrase> <!-- (C) Original: Test email sent to {email}. -->
@@ -5227,9 +5227,9 @@ Without this, recurring subscriptions can only be cancelled from your <a href="h
   <phrase title="use_this_to_temporarily_disable_this_notice" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Använd detta för att tillfälligt inaktivera detta meddelande.]]></phrase> <!-- (C) Original: Use this to temporarily disable this notice. -->
   <phrase title="use_this_tool_to_diagnose_outbound_mail_transport_issues" addon_id="XF" version_id="2000053" version_string="2.0.0 Release Candidate 3"><![CDATA[Använd det här verktyget för att diagnostisera problem med utgående mail.]]></phrase> <!-- (C) Original: Use this tool to diagnose outbound mail transport issues. -->
   <phrase title="user" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Användare]]></phrase> <!-- (C) Original: User -->
-  <phrase title="user_account_approved_body_html" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[<p> {username}, det konto du registrerade på {board} har nu godkänts. Du kan nu besöka vår webbplats som registrerad medlem. </ P>]]></phrase> <!-- (C) Original: <p>{username}, the account you registered at {board} has now been approved. You may now visit our site as a registered member. </p> -->
+  <phrase title="user_account_approved_body_html" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[<p> {username}, det konto du registrerade på {board} har nu godkänts. Du kan nu besöka vår webbplats som registrerad medlem.</p>]]></phrase> <!-- (C) Original: <p>{username}, the account you registered at {board} has now been approved. You may now visit our site as a registered member. </p> -->
   <phrase title="user_account_approved_subject" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kontot godkänt på {board_title}]]></phrase> <!-- (C) Original: Account approved on {board_title} -->
-  <phrase title="user_account_rejected_body_html" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[<p> {username}, tyvärr uppfyllde inte kontot du registrerade på {board} medlemskapskraven. Ditt konto är inte längre tillgängligt. </ P>]]></phrase> <!-- (C) Original: <p>{username}, unfortunately, the account you registered on {board} did not meet membership requirements. Your account is no longer accessible.</p> -->
+  <phrase title="user_account_rejected_body_html" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[<p> {username}, tyvärr uppfyllde inte kontot du registrerade på {board} medlemskapskraven. Ditt konto är inte längre tillgängligt.</p>]]></phrase> <!-- (C) Original: <p>{username}, unfortunately, the account you registered on {board} did not meet membership requirements. Your account is no longer accessible.</p> -->
   <phrase title="user_account_rejected_subject" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Konto avvisat på {board_title}]]></phrase> <!-- (C) Original: Account rejected on {board_title} -->
   <phrase title="user_banner_styling" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[User banner styling]]></phrase> <!-- (C) Original: User banner styling -->
   <phrase title="user_banner_text" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Användarbannertext]]></phrase> <!-- (C) Original: User banner text -->
@@ -5240,7 +5240,7 @@ Without this, recurring subscriptions can only be cancelled from your <a href="h
   <phrase title="user_delete_rename_explain" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Om du väljer att byta namn på den här användaren ändras användarnamnet på allt innehåll som kan användas för att anonymisera innehållet i enlighet med användarens raderingsrättigheter enligt GDPR-regler. Användarens ursprungliga namn kan fortfarande visas i citerat innehåll.]]></phrase> <!-- (C) Original: If you choose to rename this user, the username on all of their content will be changed which can be used to anonymize their content to comply with the user's erasure rights under GDPR rules. The user's original name may still appear in quoted content. -->
   <phrase title="user_details" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Användaruppgifter]]></phrase> <!-- (C) Original: User details -->
   <phrase title="user_editable" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Användaren kan redigeras]]></phrase> <!-- (C) Original: User editable -->
-  <phrase title="user_email_confirmation_body_html" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[<p> {username}, för att slutföra din registrering eller återaktivera ditt konto på {board} måste du bekräfta din e-postadress genom att klicka på knappen nedan. </ p>]]></phrase> <!-- (C) Original: <p>{username}, in order to complete your registration or reactivate your account at {board}, you need to confirm your email address by clicking the button below.</p> -->
+  <phrase title="user_email_confirmation_body_html" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[<p> {username}, för att slutföra din registrering eller återaktivera ditt konto på {board} måste du bekräfta din e-postadress genom att klicka på knappen nedan.</p>]]></phrase> <!-- (C) Original: <p>{username}, in order to complete your registration or reactivate your account at {board}, you need to confirm your email address by clicking the button below.</p> -->
   <phrase title="user_email_confirmation_subject" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{boardTitle} - Kontobekräftelse krävs]]></phrase> <!-- (C) Original: {boardTitle} - Account confirmation required -->
   <phrase title="user_group" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Användargrupp]]></phrase> <!-- (C) Original: User group -->
   <phrase title="user_group_permissions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Användargrupptillbehör]]></phrase> <!-- (C) Original: User group permissions -->
@@ -5272,8 +5272,8 @@ Without this, recurring subscriptions can only be cancelled from your <a href="h
   <phrase title="user_is_not_member_of_any_of_selected_user_groups" addon_id="XF" version_id="1010070" version_string="1.1.0"><![CDATA[Användaren är INTE medlem i någon av de valda användargrupperna]]></phrase> <!-- (C) Original: User is NOT a member of any of the selected user groups -->
   <phrase title="user_like_message_ratio_is_at_least" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Användaren gillar att meddelandet förhållandet är åtminstone]]></phrase> <!-- (C) Original: User likes to messages ratio is at least -->
   <phrase title="user_limit" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Användarbegränsning]]></phrase> <!-- (C) Original: User limit -->
-  <phrase title="user_lost_password_body_html" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[<p> {username}, för att återställa ditt lösenord på {board}, måste du klicka på knappen nedan. Det här låter dig välja ett nytt lösenord. </ P>]]></phrase> <!-- (C) Original: <p>{username}, in order to reset your password at {board}, you need to click the button below. This will allow you to choose a new password.</p> -->
-  <phrase title="user_lost_password_reset_body_html" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[<p> {username}, ditt lösenord på {board} har återställts. Du kan nu logga in med ditt nya lösenord. </ P>]]></phrase> <!-- (C) Original: <p>{username}, your password at {board} has been reset. You may now log in using your new password.</p> -->
+  <phrase title="user_lost_password_body_html" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[<p> {username}, för att återställa ditt lösenord på {board}, måste du klicka på knappen nedan. Det här låter dig välja ett nytt lösenord.</p>]]></phrase> <!-- (C) Original: <p>{username}, in order to reset your password at {board}, you need to click the button below. This will allow you to choose a new password.</p> -->
+  <phrase title="user_lost_password_reset_body_html" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[<p> {username}, ditt lösenord på {board} har återställts. Du kan nu logga in med ditt nya lösenord.</p>]]></phrase> <!-- (C) Original: <p>{username}, your password at {board} has been reset. You may now log in using your new password.</p> -->
   <phrase title="user_lost_password_reset_subject" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{boardTitle} - Lösenordsåterställning]]></phrase> <!-- (C) Original: {boardTitle} - Password reset -->
   <phrase title="user_lost_password_subject" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{boardTitle} - Förfrågan om återställning av lösenord]]></phrase> <!-- (C) Original: {boardTitle} - Password reset request -->
   <phrase title="user_name" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Användarnamn]]></phrase> <!-- (C) Original: User name -->
@@ -5507,15 +5507,15 @@ Without this, recurring subscriptions can only be cancelled from your <a href="h
 <p class="minorText">This message was sent to you because you opted to watch the forum "{node_title}" at {board} with email notification of new threads or messages. You will not receive any further emails about this thread until you have read the new messages.</p>
 
 <p class="minorText">If you no longer wish to receive these emails, you may <a href="{disable_this_link}">disable emails from this forum</a> or <a href="{disable_all_link}">disable all emails</a>.</p>]]></phrase>
-  <phrase title="watched_forum_message_email_html" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[<p> {replier} postade ett nytt meddelande till ett forum du tittar på på {board}. </ p>]]></phrase> <!-- (C) Original: <p>{replier} posted a new message to a forum you are watching at {board}.</p> -->
-  <phrase title="watched_forum_thread_email_html" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[<p> {replier} postade en ny tråd till ett forum du tittar på på {board}. </ p>]]></phrase> <!-- (C) Original: <p>{replier} posted a new thread to a forum you are watching at {board}.</p> -->
+  <phrase title="watched_forum_message_email_html" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[<p> {replier} postade ett nytt meddelande till ett forum du tittar på på {board}.</p>]]></phrase> <!-- (C) Original: <p>{replier} posted a new message to a forum you are watching at {board}.</p> -->
+  <phrase title="watched_forum_thread_email_html" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[<p> {replier} postade en ny tråd till ett forum du tittar på på {board}.</p>]]></phrase> <!-- (C) Original: <p>{replier} posted a new thread to a forum you are watching at {board}.</p> -->
   <phrase title="watched_forums" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tittade på forum]]></phrase> <!-- (C) Original: Watched forums -->
   <phrase title="watched_thread_email_html_footer" addon_id="XF" version_id="2000033" version_string="2.0.0 Beta 3"><![CDATA[<p class="minorText">Please do not reply to this message. You must visit the forum to reply.</p>
 
 <p class="minorText">This message was sent to you because you opted to watch the thread {thread} at {board} with email notification of new replies. You will not receive any further emails about this thread until you have read the new messages.</p>
 
 <p class="minorText">If you no longer wish to receive these emails, you may <a href="{disable_this_link}">disable emails from this thread</a> or <a href="{disable_all_link}">disable all emails</a>.</p>]]></phrase>
-  <phrase title="watched_thread_reply_email_html" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[<p> {replier} svarade på en tråd som du tittar på på {board}. </ p>]]></phrase> <!-- (C) Original: <p>{replier} replied to a thread you are watching at {board}.</p> -->
+  <phrase title="watched_thread_reply_email_html" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[<p> {replier} svarade på en tråd som du tittar på på {board}.</p>]]></phrase> <!-- (C) Original: <p>{replier} replied to a thread you are watching at {board}.</p> -->
   <phrase title="watched_threads" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tittade på tråden]]></phrase> <!-- (C) Original: Watched threads -->
   <phrase title="we_found_some_errors_while_trying_to_install_following_add_on" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Vi hittade några fel när du försökte installera följande tillägg]]></phrase> <!-- (C) Original: We found some errors while trying to install the following add-on -->
   <phrase title="we_found_some_errors_while_trying_to_rebuild_following_add_on" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Vi hittade några fel när vi försökte bygga om följande tilläggs huvuddata]]></phrase> <!-- (C) Original: We found some errors while trying to rebuild the following add-on's master data -->
