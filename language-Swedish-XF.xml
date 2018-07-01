@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<language title="Svenska" date_format="j F Y" time_format="H:i" currency_format="{value}{symbol}" week_start="1" decimal_point="." thousands_separator="," label_separator=":" comma_separator=", " ellipsis="..." parenthesis_open="(" parenthesis_close=")" language_code="sv-SE" text_direction="LTR" addon_id="XF" export_version="1">
+<language title="Svenska" date_format="j F Y" time_format="H:i" currency_format="{value}{symbol}" week_start="1" decimal_point="." thousands_separator="," label_separator=":" comma_separator=", " ellipsis="..." parenthesis_open="(" parenthesis_close=")" language_code="sv-SE" text_direction="LTR" addon_id="XF" export_version="2">
   <phrase title="1_day_ago" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[En dag sedan]]></phrase>
   <phrase title="1_month_ago" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[En månad sedan]]></phrase>
   <phrase title="1_time" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[1 gång]]></phrase>
@@ -329,13 +329,13 @@
   <phrase title="admin_permissions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Admin permissions]]></phrase>
   <phrase title="admin_templates" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Admin templates]]></phrase>
   <phrase title="admin_templates_may_only_be_created_in_master_style" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Admin templates may only be created in the master style.]]></phrase>
-  <phrase title="administrator" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Administrator]]></phrase>
+  <phrase title="administrator" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Administratör]]></phrase>
   <phrase title="administrator_type" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Administrator type]]></phrase>
-  <phrase title="administrators" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Administrators]]></phrase>
+  <phrase title="administrators" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Administratörer]]></phrase>
   <phrase title="administrators_and_moderators_will_not_be_deleted" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Administrators and moderators will not be deleted.]]></phrase>
-  <phrase title="advanced_mode" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Advanced mode]]></phrase>
+  <phrase title="advanced_mode" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Avancerat läge]]></phrase>
   <phrase title="advanced_options" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Advanced options]]></phrase>
-  <phrase title="advanced_search" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Advanced search]]></phrase>
+  <phrase title="advanced_search" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Avancerad sökning]]></phrase>
   <phrase title="advertisement_is_active" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Advertisement is active]]></phrase>
   <phrase title="advertising" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Advertising]]></phrase>
   <phrase title="advertising_position_is_active" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Advertising position is active]]></phrase>
